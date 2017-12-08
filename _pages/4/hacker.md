@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Hacker Guide
+description: This is a hacker guide for HackCU IV edition
 ---
 # Hacker guide
 
