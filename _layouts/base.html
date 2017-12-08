@@ -1,0 +1,70 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Meta Information -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+
+    <!-- for Google -->
+    <meta name="description" content="{{page.description}}"/>
+    <meta name="author" content="{{site.author}}"/>
+    <meta name="theme-color" content="{{site.color}}">
+    <meta name="copyright" content="{{site.author}}"/>
+    <meta name="application-name" content="{{site.title}}"/>
+
+    <!-- for Facebook -->
+    <meta property="og:title" content="{%if page.title %}{{page.title}} | {%endif%} {{site.title}}"/>
+    <meta property="og:url" content="https://pages.hackcu.org"/>
+    <meta property="og:description" content="{%if page.description %}{{page.description}}{%endif%} "/>
+
+    <!-- for Twitter -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="{%if page.title %}{{page.title}} | {%endif%} {{site.title}}"/>
+    <meta name="twitter:site" content="@hackcu">
+    <meta name="twitter:creator" content="@hackcu">
+    <meta name="twitter:description" content="{%if page.description %}{{page.description}}{%endif%}">
+
+    <title>{%if page.title %}{{page.title}} | {%endif%} {{site.title}}</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+
+    <!-- Reset CSS -->
+    <link rel="stylesheet" href="/assets/css/reset.css">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/assets/lib/bootstrap.min.css">
+
+    <!-- Font awesome -->
+    <link rel="stylesheet" href="/assets/lib/font-awesome.min.css">
+
+    <!-- Our own CSS, yay! -->
+    <link rel="stylesheet" href="/assets/css/style.css?_={{ site.time |  date: '%s' }}">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+<div class="wrapper">
+    {% include navbar.html %}
+    <div class="container ">    
+        <div class="row">
+            <div class="col-md-12 content">{{content}}</div>
+        </div>
+    </div>
+    <div class="push"></div>
+</div>
+{% include footer.html %}
+
+
+</body>
+
+</html>

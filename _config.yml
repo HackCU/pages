@@ -1,0 +1,12 @@
+original_repo: https://github.com/hackcu/pages
+title: HackCU Pages
+color: "#22292c"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+sass:
+    sass_dir: assets/_sass
+    style: compressed
