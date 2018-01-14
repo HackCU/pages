@@ -20,8 +20,7 @@ Parking will be available in the parking lot outside of SEEC on Discovery Dr. Be
 
 ## Flying in
 
-You should look for flights to Denver International Airport (DIA). From there you can take a bus, the RTD AB line, that runs from the airport to our university campus. Find the bus schedule and fares [here](http://www3.rtd-denver.com/schedules/getSchedule.action?routeId=AB). Get off at the Baseline and Broadway stop, and follow the route from the bus stop to the Wolf Law building just 4 minutes away.
-
+You should look for flights to Denver International Airport (DIA). From there you can take a bus, the RTD AB line, that runs from the airport to our university campus. Find the bus schedule and fares [here](http://www3.rtd-denver.com/schedules/getSchedule.action?routeId=AB). 
 
 ## International Travel
 
