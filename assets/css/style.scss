@@ -53,6 +53,11 @@ body {
     font-size: 17.5px;
     padding-bottom: 40px;
   }
+
+  li {
+    list-style-type: square;
+    margin-left: 1em;
+  }
 }
 
 nav, .navbar-default{
