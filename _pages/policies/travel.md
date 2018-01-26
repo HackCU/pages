@@ -20,7 +20,7 @@ Parking will be available in the parking lot outside of SEEC on Discovery Dr. Be
 
 ## Flying in
 
-You should look for flights to Denver International Airport (DIA). From there you can take a bus, the RTD AB line, that runs from the airport to our university campus. Find the bus schedule and fares [here](http://www3.rtd-denver.com/schedules/getSchedule.action?routeId=AB). Buy tickets using [RTD Mobile Ticket app](http://www.rtd-denver.com/mobileticket.shtml) or bring cash to pay directly to the driver (cost is 9$ either way).
+You should look for flights to Denver International Airport (DIA). From there you can take a bus, the RTD AB line, that runs from the airport to our university campus. Find the bus schedule and fares [here](http://www3.rtd-denver.com/schedules/getSchedule.action?routeId=AB). Buy tickets using [RTD Mobile Ticket app](http://www.rtd-denver.com/mobileticket.shtml) or bring cash to pay directly to the driver (cost is 9$ either way). Keep your bus receipts so we can reimburse you later if you were approved.
 
 ## International Travel
 
