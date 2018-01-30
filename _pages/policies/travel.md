@@ -54,14 +54,28 @@ If you research transportation from your location and find the travel cap to be 
 - Confirm your event attendance and attend the event.
 - Be approved by the HackCU admin team for reimbursement. You will receive an email.
 - Submit a project to Devpost.
-- You will be required to submit a receipt of your travel expenses. Please make sure your receipts clearly show the dollar amount spent.
+- You will be required to submit a receipt of your travel expenses. 
 
 ## Reimbursement method
 
-- If you live in the US, we can reimburse you with either Venmo or Paypal. Fill an option while submitting your receipt
-- Otherwise, if your country doesn't have Venmo, we will be sending out reimbursements via Paypal.
-- Please note that this our only 2 options. Both services are free, so we kindly ask you to sign up to either one of those. 
+- We will send reimbursements through checks to the address that you set when submitting your receipt.
+- Checks may take 30-60 days to arrive to you.
 - If you can't sign up to either please send us an email at [contact@hackcu.org](mailto:contact@hackcu.org).
+
+## Submit your flight/bus receipts
+
+Receipts should include:
+ 
+- Purchase date
+- Your name
+- Detailed price (flight price, taxes...)
+- Proof of payment for the purchase (i.e. a reference to a debit/credit card such as Visa 1234)
+ 
+Not all travel receipts will include the name of the purchaser, but for airline receipts, the person being reimbursed needs to be shown as the traveling party. Some ground transportation receipts (such as Uber and Lyft) usually include the name of the person who used the service. For other types of travel receipts (bus, taxi, shuttle service, etc.), even if the receipt does not show the traveler’s name, the person expecting reimbursement needs to obtain some form of receipt. If payment for the travel service was made with a debit or credit card, copies of the transaction on a bank statement could support proof of payment for the service.
+
+## Submit your car itenerary
+
+If you are traveling by car please submit gas receipts as well as a Google Maps screenshot that shows where you traveled from and mileage. 
 
 ## Other details
 
