@@ -7,23 +7,21 @@ description: The extensive guide to make your experience at HackCU IV amazing!
 # HackCU IV Hacker Guide
 We're so excited to have you at HackCU IV! We've put together this comprehensive hacker guide to help you get ready for the big weekend. We've included important information regarding logistics, events, and resources in this guide.
 
-<hr/>
+----
 
 ## Before the event 
 
-###What to Bring :briefcase:
+### What to Bring :briefcase:
 
-- **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware from MLH. **TODO: Can someone confirm if MLH takes student ID's for hardware or is it only credit cards/ gov't ID's**
+- **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware from MLH. 
 - Laptop, Phone, Chargers, and Other Devices - Don't forget to bring your chargers and extra batteries for any device you'll be using. 
 - Headphones 
 - Warm Clothes & Layers - Boulder can get very cold in February! 
 - Toiletries - We'll be providing you with the essentials (toothpaste, toothbrush, floss, facial wipes). Please  bring any additional items, medications, etc. you may need. 
 - Comfortable/spare clothes - If the weather permits, we have a few outdoor events planned. 
-- Notebook/ Paper & Pen - **TODO: To include/not**
-- Sleeping Materials - You may bring a pillow/blanket if you'd like
-- Resumes: **TODO: Do we want to include this here? make it optional?**
+- Notebook/ Paper & Pen 
+- You may bring a pillow/blanket if you'd like
 
-<hr/>
 
 ### Directions :round_pushpin:
 
@@ -39,53 +37,40 @@ Make sure to check the extensive [travel guide](https://pages.hackcu.org/policie
 
 Almost all of our events will take place in the SEEC building. We'll have volunteers and organizers help lead you to our other event locations. 
 
-<hr/>
+-----
 
 ## During the Event
 
 ### Rules :point_left:
 
-The #1 rule is "Be respectful".
+**The #1 rule is "Be respectful"**.
 
 Please read [HackCU's code of conduct](https://my.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. 
 
-<hr/>
 
-###Slack :exclamation:
+### Slack :exclamation:
 
-**TODO: Someone w/ Slack admin rights needs to insert slack invite link**
-
-Please make sure to sign up for our [Slack](www.slack.com) channel. This will be our primary method of communication for HackCU IV. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
+Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for HackCU IV. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
 
 **TODO: Discuss if we want to create a channel just for anouncements/ limit #general so that only admin members can post to prevent spamming & keep important info condensed**
 
-\#general: This is where we'll be posting most of our important updates and notifications
+- \#general: This is where we'll be posting most of our important updates and notifications
+- \#formingteams: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
+- \#whatmusicdoyoulike: Have a playlist you'd like to share with hackers? Or a song request? :notes:
+- \#mentors: Mentors will hangout here as well as in our mentor app (to be announced soon)!
+- \#random: THE GIPHY channel (jk, say whatever there)
+- \#looking_for_jobs: Post your Linkedin so that recruiters can find you!
+- \#twitter: You can see here all our post on Twitter and all conversations we have! :bird:
+- \#food: Have any recommendations for snacks you'd like us to pick up? We'll also be making anouncements about food and snacks here. :fries:
+- \#hosting: Need a place to sleep? Do you live in Boulder and can host someone? Meet here to find a place to stay the day before or after HackCU. :bed:
 
-\#formingteams: Post here if you are looking for teammates or a team to join
-
-\#whatmusicdoyoulike: Have a playlist you'd like to share with hackers? Or a song request?
-
-\#mentors: Connect with a mentor (see below) through our mentor app or through this channel
-
-\#random: **TODO: description**
-
-\#looking_for_jobs: Network with hackers and sponsors **TODO: ??**
-
-\#food: Have any recommendations for snacks you'd like us to pick up? We'll also be making anouncements about food and snacks here. 
-
-\#hosting: Need a place to sleep? Do you live in Boulder and can host someone? Meet here to find a place to stay the day before or after HackCU.
-
-<hr/>
 
 ### Full Schedule :alarm_clock:
 
-####Check out our  [live page](https://live.hackcu.org) for our most recently updated complete schedule.
+**Check out our  [live page](https://live.hackcu.org) for our most recently updated complete schedule.**
 
-<hr/>
 
 Here are some important times to be aware of:
-
-**TODO: Double check schedule**
 
 #### February 24th (Saturday)
 
@@ -109,17 +94,17 @@ Here are some important times to be aware of:
 - 12:30 PM - Project Expo! 
 - 3:00 PM - Closing Ceremonies
 
-*What are these special events? We will reveal them to you at the opening ceremony. All we can say is that you won't find another opportunity to experience these at hackathons. Rest assured, you will definitely enjoy them!
+*What are these special events? We will reveal them to you at the opening ceremony. All we can say is that you won't find another opportunity to experience these at hackathons. Rest assured, you will definitely enjoy them!*
 
-</hr>
+-----
 
 ### Venue :bookmark:
 
 **TODO: Insert venue map here or info about map in live page**
 
-</hr>
+-----
 
-###Workshops :computer:
+### Workshops :computer:
 
 We have curated various workshops & events for you to explore.
 
@@ -129,41 +114,39 @@ We have curated various workshops & events for you to explore.
 - **Workshop: Vim - A Robust Text Editor** Learn to use the text editor everybody is raving about since the 90's
 - **Workshop: Intro to git and GitHub** Learn how to make your projects available for the entire world to see
 - **Workshop: Make your own personal website** Put everything you learnt together and build your portfolio
-
-
 - **Workshop: Intro to Android**
 - **Workshop: Intro to iOS**
 - **Hackathon Organizer Meetup** Meet other hackathon organizers. Get tips on how to bring a hackathon to your community
 
-<hr/>
+-----
 
 ### Forming Teams :smiley:
 
 - Team sizes are limited to a maximum of **4** people each
-- **TODO: Someone w/ Slack admin rights needs to insert slack invite link**  Join the \#formingteams channel on our [Slack](www.slack.com) to meet other hackers and potential team members before the event
+- Join the \#formingteams channel on our [Slack](http://slack.hackcu.org) to meet other hackers and potential team members before the event
 - We will also have a team formation event before the hacking begins!
 
-<hr/>
+-----
 
 ### Need Help? :raised_hand: 
 
 **TODO: insert info about requesting a mentor/mentor app**
 
-<hr/>
+-----
 
 ### Project Submissions :trophy:
 
 Please submit your projects on our [Devpost](https://hackcu4.devpost.com/) by **Sunday 2/25/18 at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for.
 
-Our judging will take place expo style. You'll present your project to the judges and have **TODO: insert amount of time here** * to demo what you learned and built. You should still demo your project even if you're not finished. Everyone who demos will receive a custom HackCU IV 'I Demoed' sticker by MLH. 
+Our judging will take place expo style. You'll present your project to the judges and have **TODO: insert amount of time here** * to demo what you learned and built. You should still demo your project even if you're not finished. 
 
-<hr/>
+-----
 
 ### Connect with Us :camera:
 
-Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/).
+Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). Use our hashtag ([#hackcu](https://twitter.com/search?q=%23hackcu)) when posting to Twitter or Instagram
 
-<hr/>
+-----
 
 ## Links you need!
 
@@ -172,8 +155,8 @@ Make sure to tag social media posts related to the event with **\#HackCU**. We'l
 - Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
 - Devpost: [hackcu4.devpost.com](https://hackcu4.devpost.com)
 
-<hr/>
+-----
 
-##Questions or Concerns 
+## Questions or Concerns 
 
 Email us at [contact@hackcu.org](mailto:contact@hackcu.org)! You can also reach out to us on our [Twitter](https://twitter.com/hackcu) or [Facebook](https://www.facebook.com/HackCU/).
