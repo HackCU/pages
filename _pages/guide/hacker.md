@@ -54,14 +54,15 @@ In order to make check-in go smoother, please show us the QR code you got in you
 
 Please read [HackCU's code of conduct](https://my.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. 
 
-### Hacking
+### Hacking :bulb:
 
 **No coding is allowed before 12:00 PM on Saturday**
 You can hack freely in the SEEC building in rooms marked “Hacker Space.” Some classrooms will be closed for HackCU side events.
 
-You must come with fresh code. Nothing but open source libraries or empty files to begin. Version control repos and honor system are the standards for measurement. Don’t shame your school, especially CU if you are from here. (Bootstrap, etc. is totally allowed)
+You must come with fresh code. Nothing but open source libraries or empty files to begin. Version control repos and honor system are the standards for measurement.
 
-### Hardware
+### Hardware :wrench:
+
 MLH will bring their awesome hardware lab, including Oculus Rift, Leap Motion, Amazon Echo, Muse headband and a lot more! Stay tuned to the live page for the complete list of hardware available for you.
 
 
@@ -132,7 +133,7 @@ Our judging will take place expo style. You'll present your project to the judge
 
 ## Connect with Us :camera:
 
-Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). Use our hashtag ([#hackcu](https://twitter.com/search?q=%23hackcu)) when posting to Twitter or Instagram.
+Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). 
 
 -----
 
