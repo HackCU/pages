@@ -67,7 +67,7 @@ A good quality PNG will also work. Check out your logo on our website at HackCU.
 
 ### Can you send mentors or recruiters?
 You are allowed to send mentors. We recommend they stay for at least one hour, and they are
-allowed to come at any time during the event. Check out our [mentor guide](../mentors/). Depending on your tier, you will be able
+allowed to come at any time during the event. Check out our [mentor guide](../mentor/). Depending on your tier, you will be able
 to send recruiters to the event as well. Please contact your HackCU representative if you are unsure of your tier.
 
 ### What do you do with swag?
