@@ -1,10 +1,9 @@
 ---
 layout: base
-title: Hacker guide
+title: HackCU IV Hacker Guide
 description: The extensive guide to make your experience at HackCU IV amazing!
 ---
 
-# HackCU IV Hacker Guide
 We're so excited to have you at HackCU IV! We've put together this comprehensive hacker guide to help you get ready for the big weekend. We've included important information regarding logistics, events, and resources in this guide.
 
 ----

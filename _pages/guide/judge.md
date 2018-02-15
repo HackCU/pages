@@ -4,7 +4,6 @@ title: Judging guide
 description: Judging at HackCU
 ---
 
-# Judging guide
 
 First of all, in the name of the HackCU team, we’d like to thank you all for wanting to be a judge. Your decision will be crucial to be able to determine, fairly, whose projects should be awarded.
 
