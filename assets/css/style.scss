@@ -73,12 +73,7 @@ body {
     }
   }
 
-  img {
-    display: block;
-    margin: 0 auto;
-    padding: 10px;
-    max-width: 100%;
-  }
+  
 
   .wrapper {
     min-height: 100%;
@@ -97,6 +92,13 @@ body {
       font-weight: 300;
       line-height: 2em;
       margin-bottom: 20px;
+    }
+
+    img:not(.emoji) {
+      display: block;
+      margin: 0 auto;
+      padding: 10px;
+      max-width: 100%;
     }
   }
 
