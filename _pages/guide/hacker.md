@@ -62,10 +62,6 @@ You can hack freely in the SEEC building in rooms marked “Hacker Space.” Som
 
 You must come with fresh code. Nothing but open source libraries or empty files to begin. Version control repos and honor system are the standards for measurement. Don’t shame your school, especially CU if you are from here. (Bootstrap, etc. is totally allowed)
 
-### Teams 
-
-Teams will be a maximum of **4 people per team**. 
-
 ### Hardware
 MLH will bring their awesome hardware lab, including Oculus Rift, Leap Motion, Amazon Echo, Muse headband and a lot more! Stay tuned to the live page for the complete list of hardware available for you.
 
