@@ -42,6 +42,14 @@ body {
 
   background-color: $main-color;
   font-family: Roboto, sans-serif;
+
+  img {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 100%;
+  }
+
   .wrapper {
     min-height: 100%;
 
