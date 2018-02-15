@@ -48,6 +48,9 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
 
+    <!-- add after bootstrap.min.css -->
+    <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v0.4.1/dist/bootstrap-toc.min.css">
+
 
 </head>
 
@@ -57,12 +60,20 @@
     {% include navbar.html %}
     <div class="container ">    
         <div class="row">
-            <div class="col-md-offset-2 col-md-8 content">{{content}}</div>
+            <div class="col-md-8 content">{{content}}</div>
+            <div class="col-md-4 hidden-xs hidden-sm" >
+                
+                <div id='toc'>
+                    {% include toc.html html=content %}
+                </div>
+            </div>
         </div>
     </div>
     <div class="push"></div>
 </div>
 {% include footer.html %}
+
+
 
 <!-- Make links target _blank -->
 <script>

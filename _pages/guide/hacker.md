@@ -39,8 +39,7 @@ Almost all of our events will take place in the SEEC building. We'll have volunt
 
 ### Buses from Main Campus :bus:
 
-**TODO: include info about buses from main campus to SEEC**
-
+{% include sections/buses.md %}
 
 ### Checking-in at HackCU :wave:
 
@@ -88,34 +87,9 @@ Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slac
 - \#hosting: Need a place to sleep? Do you live in Boulder and can host someone? Meet here to find a place to stay the day before or after HackCU. :bed:
 
 
-### Full Schedule :alarm_clock:
+### Preliminary Schedule :alarm_clock:
 
-**Check out our  [live page](https://live.hackcu.org) for our most recently updated complete schedule.**
-
-
-Here are some important times to be aware of:
-
-#### February 24th (Saturday)
-
-- 8:00 AM - Check-in
-- 8:00 AM - Breakfast
-- 9:30 AM - Opening Ceremonies
-- 11:00 AM - Team Formation & Networking
-- 12:00 PM - Hacking Begins!
-- 12:00 PM - Lunch
-- 4:00 PM - Special Event*
-- 5:00 PM - Special Event*
-- 6:00 PM - Dinner
-- 11:00 PM - Late Night Dessert
-
-#### February 25th (Sunday)
-
-- 6:00 AM - Special Event*
-- 7:30 AM - Breakfast
-- 12:00 PM - Lunch
-- 12:00 PM - Hacking Ends!
-- 12:30 PM - Project Expo! 
-- 3:00 PM - Closing Ceremonies
+{% include sections/schedule.md %}
 
 *What are these special events? We will reveal them to you at the opening ceremony. All we can say is that you won't find another opportunity to experience these at hackathons. Rest assured, you will definitely enjoy them!*
 
@@ -163,7 +137,7 @@ Our judging will take place expo style. You'll present your project to the judge
 
 ## Connect with Us :camera:
 
-Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). Use our hashtag ([#hackcu](https://twitter.com/search?q=%23hackcu)) when posting to Twitter or Instagram
+Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). Use our hashtag ([#hackcu](https://twitter.com/search?q=%23hackcu)) when posting to Twitter or Instagram.
 
 -----
 
