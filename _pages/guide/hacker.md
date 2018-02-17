@@ -26,7 +26,7 @@ We're so excited to have you at HackCU IV! We've put together this comprehensive
 
 HackCU IV will take place Saturday, February 24th to Sunday February 25th, 2018 at the **SEEC** building at the University of Colorado Boulder, [4001 Discovery Dr, Boulder, CO 80303](https://www.google.com/maps/dir//40.0097787,-105.2424016/@40.0097782,-105.2464652,16z/data=!4m2!4m1!3e2). 
 
-If you're flying into [DEN](https://www.flydenver.com/), we recommend using public transportation from the airport to get to the venue. From the airport, take the [AB line](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2431&routeId=AB&routeType=9&&direction=W-Bound&serviceType=1#day) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder— it only costs $9.00 each way. 
+If you're flying into [DEN](https://www.flydenver.com/), we recommend using public transportation from the airport to get to the venue. From the airport, take the [AB line](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2431&routeId=AB&routeType=9&&direction=W-Bound&serviceType=1#day) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder— it only costs $9.00 each way. Once there, go to [Lot 204](https://goo.gl/maps/qT5msk6QzBL2) to take our mini bus to the venue.
 
 Make sure to check the extensive [travel guide](https://pages.hackcu.org/policies/travel/) for more information about other modes of transportation, reimbursements, etc.
 
@@ -70,8 +70,6 @@ MLH will bring their awesome hardware lab, including Oculus Rift, Leap Motion, A
 
 Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for HackCU IV. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
 
-**TODO: Discuss if we want to create a channel just for anouncements/ limit #general so that only admin members can post to prevent spamming & keep important info condensed**
-
 - \#general: This is where we'll be posting most of our important updates and notifications
 - \#formingteams: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
 - \#whatmusicdoyoulike: Have a playlist you'd like to share with hackers? Or a song request? :notes:
@@ -90,24 +88,10 @@ Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slac
 *What are these special events? We will reveal them to you at the opening ceremony. All we can say is that you won't find another opportunity to experience these at hackathons. Rest assured, you will definitely enjoy them!*
 
 
-### Venue :bookmark:
-
-**TODO: Insert venue map here or info about map in live page**
-
-
 ### Workshops :computer:
 
-We have curated various workshops & events for you to explore.
+{% include sections/workshops.md %}
 
-**TODO: Double check workshops & events; edit descriptions; Do we want hackers to install required software for workshops before hand? i.e: Xcode/ Android Studio for the mobile workshops, considering the workshops are only an hour long etc.**
-
-- **Workshop: Intro to Python** Find out what makes Python such an easy programming language for you to learn
-- **Workshop: Vim - A Robust Text Editor** Learn to use the text editor everybody is raving about since the 90's
-- **Workshop: Intro to git and GitHub** Learn how to make your projects available for the entire world to see
-- **Workshop: Make your own personal website** Put everything you learnt together and build your portfolio
-- **Workshop: Intro to Android**
-- **Workshop: Intro to iOS**
-- **Hackathon Organizer Meetup** Meet other hackathon organizers. Get tips on how to bring a hackathon to your community
 
 
 ### Forming Teams :smiley:
