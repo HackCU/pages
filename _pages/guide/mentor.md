@@ -4,7 +4,7 @@ title: Mentor guide
 description: Guide to mentor during HackCU Episode IV
 ---
 
-First of all, in the name of the HackCU team, we’d like to thank you all for wanting to be a judge. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn all about a new technology, or come up with creative ideas**. Participants will then have 24 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing. 
+First of all, in the name of the HackCU team, we’d like to thank you all for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn all about a new technology, or come up with creative ideas**. Participants will then have 24 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing. 
 
 
 ## Who is a mentor?
