@@ -57,7 +57,7 @@ Please read [HackCU's code of conduct](https://my.hackcu.org/code_conduct/) and 
 ### Hacking :bulb:
 
 **No coding is allowed before 12:00 PM on Saturday**
-You can hack freely in the SEEC building in rooms marked “Hacker Space.” Some classrooms will be closed for HackCU side events.
+You can hack freely in SEEC building in the first floor rooms marked as “Hacker Space.” Some classrooms will be closed for HackCU side events.
 
 You must come with fresh code. Nothing but open source libraries or empty files to begin. Version control repos and honor system are the standards for measurement.
 
