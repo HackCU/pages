@@ -71,8 +71,9 @@ You will see check in when you arrive. Please provide your name to the check in 
 ## Links you need!
 
 - Our website: [hackcu.org](https://hackcu.org)
-- Live page: [live.hackcu.org](https://live.hackcu.org)
-- Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
+- Live page: *Coming soon*
+- Join slack: [slack.hackcu.org](https://slack.hackcu.org)
+- Slack: [hackcu.slack.com](https://hackcu.slack.com)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
 
 ## Social Media

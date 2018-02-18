@@ -124,8 +124,9 @@ Make sure to tag social media posts related to the event with **\#HackCU**. We'l
 ## Links you need!
 
 - Our website: [hackcu.org](https://hackcu.org)
-- Live page: [live.hackcu.org](https://live.hackcu.org)
-- Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
+- Live page: *Coming soon*
+- Slack: [hackcu.slack.com](https://hackcu.slack.com)
+- Join Slack: [slack.hackcu.org](https://slack.hackcu.org)
 - Devpost: [hackcu4.devpost.com](https://hackcu4.devpost.com)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
 - Check-in QR: [my.hackcu.org](https://my.hackcu.org)

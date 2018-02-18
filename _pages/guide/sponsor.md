@@ -96,7 +96,7 @@ Make sure to tag social media posts related to the event with **[\#HackCU](https
 ## Links
 
 - Our website: [hackcu.org](https://hackcu.org)
-- Live page: [live.hackcu.org](https://live.hackcu.org)
+- Live page: *Coming soon*
 - Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
 
 ----
