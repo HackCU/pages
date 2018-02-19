@@ -10,7 +10,7 @@ First of all, in the name of the HackCU team, we’d like to thank you all for s
 ## When to be here
 
 
-All of you completed a [doodle](https://doodle.com/poll/bvqnefemfbb3rwc2) with the information of your attendance as a volunteer during the weekend. We will be setting up the [HackCU venue](https://www.google.com/maps/dir//40.0097787,-105.2424016/@40.0097782,-105.2464652,16z/data=!4m2!4m1!3e2) from 5PM on Friday 23rd. We will meet on the Cafe area.
+All of you completed a [doodle](https://doodle.com/poll/bvqnefemfbb3rwc2) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for HackCU](https://www.google.com/maps/dir//40.0097787,-105.2424016/@40.0097782,-105.2464652,16z/data=!4m2!4m1!3e2) at 5PM on Friday 23rd. We will meet on the Cafe area.
 
 ----
 
