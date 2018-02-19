@@ -4,12 +4,12 @@ title: Mentor guide
 description: Guide to mentor during HackCU Episode IV
 ---
 
-First of all, in the name of the HackCU team, we’d like to thank you all for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn all about a new technology, or come up with creative ideas**. Participants will then have 24 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing. 
+First of all, in the name of the HackCU team, we’d like to thank you all for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn all about a new technology, and come up with creative ideas**. Participants will then have 24 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing. 
 
 
 ## Who is a mentor?
 
-Mentors are experienced people who want to share their knowledge with new hackers and help them get through different roadblocks. They help new hackers make their dreams a reality by helping them during the event. However, mentors do **not** participate at the hackathon like hackers do and therefore, they can’t submit any project.
+Mentors are experienced volunteers who want to share their knowledge with new hackers and help them get through different roadblocks. They help new hackers make their dreams a reality by helping them during the event. However, mentors do **not** participate at the hackathon like hackers do and therefore, they can’t submit any project.
 
 
 
@@ -20,17 +20,19 @@ During the event, we expect mentors to:
 - Act as helpers, moving from group to group and helping hackers with any questions or roadblocks they have. However, mentors can’t submit a project or contribute in a team’s project in such a way that a project is mainly his/her work. Their task is to guide and help teams to carry on their own projects.
 - Help hackers building their team at the team building event, which takes place at the beginning of the hackathon.
 - Join HackCU's Slack: [slack.hackcu.org](https://slack.hackcu.org)
-- Hacking at HackCU IV starts at 12.00 P.M on Saturday and ends at 12.00 P.M. on Sunday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at a time that is convenient for you. 
+- Hacking at HackCU IV starts at 12.00 P.M on Saturday and ends at 12.00 P.M. on Sunday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at any time that is convenient to you. 
 - Check out help requests through our communication channels:
 	- Messages from the #mentors Slack channel (join slack [here](https://slack.hackcu.org))
-	- Requests from the mentors app ([mentors.hackcu.org](https://mentors.hackcu.org/join/mentors)). Guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp). To become a mentor sign up using this url: [mentors.hackcu.org/join/mentors](mentors.hackcu.org/join/mentors)
+	- Requests from the mentors app ([mentors.hackcu.org](https://mentors.hackcu.org/join/mentors)). 
+	- Guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp). 
+	- To become a mentor sign up using this url: [mentors.hackcu.org/join/mentors](mentors.hackcu.org/join/mentors)
 
-## Which benefits do I get?
+## What benefits do I get as a Mentor?
 
-We want you to live a great hackathon experience. As a mentor, you will be able to:
-- Assist to all workshops and tech talks taking place during the event.
+We want you to have a great hackathon experience. As a mentor, you will be able to:
+- Assist workshops and tech talks that take place during the event.
 - Have full meals during the day, including all kind of snacks and drinks.
-- Get exclusive swag of the event: stickers, sponsors merchandising...
+- Get exclusive swag throughout the event.
 
 ---
 
@@ -50,6 +52,7 @@ We want you to live a great hackathon experience. As a mentor, you will be able 
 - Laptop
 - Laptop Charger
 - Comfortable Clothes
+- Government ID
 
 ### Check in
 
