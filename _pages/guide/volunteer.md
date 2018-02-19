@@ -36,12 +36,12 @@ During HackCU, Gerard and Mackenzie will be your main point of contact. If they 
 
 ### Hackers
 
-Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for HackUPC :-). You will be seating on S1 corridor between A5-A6 (called check-in area from now on).
+Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for HackCU :-). You will be seating on S1 corridor between A5-A6 (called check-in area from now on).
 
 The check-in algorithm will be the following:
 - Go to [MyHackCU](https://my.hackcu.org)
 - Greet Hacker, ask for Government ID
-- Check name in ID on myHackUPC or scan his or her QR
+- Check name in ID on MyHackCU or scan his or her QR
 - If found:
   - Check-in.
   - If already checked in
