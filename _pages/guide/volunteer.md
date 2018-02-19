@@ -92,13 +92,17 @@ Here are the different color badges that will be available during the event:
 
 ![Sponsor badge](/assets/img/badgesponsor.png)
 
-## What happens if I don’t know something?
-During the event, hackers will ask you lots of questions, it’s okay if you don’t know the answer. When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the #admin-volunteers slack channel or through the phone.
-
 
 ## Lanyards
 
 Green lanyards are for hackers that are okay with being taken pictures during the event. Black ones are for those that have not accepted.
+
+---
+
+
+## What happens if I don’t know something?
+During the event, hackers will ask you lots of questions, it’s okay if you don’t know the answer. When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the #admin-volunteers slack channel or through the phone.
+
 
 ----
 
