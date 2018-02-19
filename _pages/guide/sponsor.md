@@ -80,6 +80,20 @@ and the admin team.
 We will be providing all meals, snacks and drinks, and you are allowed to eat and drink
 anything at the event!
 
+### What information should I provide about my company challenge?
+In order to make the most of your challenge during HackCU, we recommend you to provide with the following:
+
+- Challenge name: How should we call your challenge? 
+- Prize: What will the winners get on your challenge?
+- Description: This can be a document. Should provide answers to the following questions:
+  - What is the challenge?
+  - What your company is looking for?
+  - What is provided to help hackers solve the challenge? Provide links to any resources here as well.
+  - How will hacks be judged? What makes a hack win?
+  
+Please provide this as soon as you have it. We will publish it our live page and devpost. You can provide us with a link to documentation to reference to hackers.
+
+
 
 ---
 
@@ -96,6 +110,7 @@ Make sure to tag social media posts related to the event with **[\#HackCU](https
 - Our website: [hackcu.org](https://hackcu.org)
 - Live page: *Coming soon*
 - Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
+- Devpost: [hackcu4.devpost.com](https://hackcu4.devpost.com) 
 
 ----
 
