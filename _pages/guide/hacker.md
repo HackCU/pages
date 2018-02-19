@@ -70,7 +70,8 @@ MLH will bring their awesome hardware lab, including Oculus Rift, Leap Motion, A
 
 Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for HackCU IV. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
 
-- \#general: This is where we'll be posting most of our important updates and notifications
+- \#announcements: We will be using this to announce our intro talks, food being served and stuff about HackCU. :loudspeaker:
+- \#general: Talk about HackCU and get to know each other! `if (message.randomness > 0.5): message.post(#random)`
 - \#formingteams: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
 - \#whatmusicdoyoulike: Have a playlist you'd like to share with hackers? Or a song request? :notes:
 - \#mentors: Mentors will hangout here as well as in our mentor app (to be announced soon)!
@@ -111,7 +112,7 @@ All of our mentors will be hanging out at [mentors.hackcu.org](https://mentors.h
 
 Please submit your projects on our [Devpost](https://hackcu4.devpost.com/) by **Sunday 2/25/18 at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
 
-Our judging will take place expo style. You'll present your project to the judges and have **TODO: insert amount of time here** * to demo what you learned and built. You should still demo your project even if you're not finished. 
+Our judging will take place expo style. You'll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you're not finished. 
 
 -----
 
