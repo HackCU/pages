@@ -16,9 +16,9 @@ Because of your contribution, you will be helping students work on projects, lea
 >SEEC Building, 4001 Discovery Dr
 >Boulder, CO 80303
 
-### Buses
+### Parking
 
-{% include sections/buses.md %}
+{% include sections/parking.md %}
 
 ### What should I bring?
 
@@ -32,9 +32,7 @@ Because of your contribution, you will be helping students work on projects, lea
 
 You will see our check in table when you arrive. Please provide your name and company name to the check in table. You will be provided with a sponsor badge to enter and leave the venue whenever you want.
 
-### Parking
 
-{% include sections/parking.md %}
 
 ---
 
