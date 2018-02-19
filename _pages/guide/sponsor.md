@@ -90,6 +90,7 @@ In order to make the most of your challenge during HackCU, we recommend you to p
   - What your company is looking for?
   - What is provided to help hackers solve the challenge? Provide links to any resources here as well.
   - How will hacks be judged? What makes a hack win?
+  - Project examples 
   
 Please provide this as soon as you have it. We will publish it our live page and devpost. You can provide us with a link to documentation to reference to hackers.
 
