@@ -80,7 +80,7 @@ and the admin team.
 We will be providing all meals, snacks and drinks, and you are allowed to eat and drink
 anything at the event!
 
-### What information should I provide about my company challenge?
+### What information should I provide for my company challenge?
 In order to make the most of your challenge during HackCU, we recommend you to provide with the following:
 
 - Challenge name: How should we call your challenge? 
