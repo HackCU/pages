@@ -4,7 +4,7 @@ title: Sponsor guide
 description: Sponsor guide for HackCU Episode IV
 ---
 
-HackCU is truly honored to have you sponsor HackCU III this year! This event would not be possible or as successful without you. 
+HackCU is truly honored to have you sponsor HackCU IV this year! This event would not be possible or as successful without you. 
 Because of your contribution, you will be helping students work on projects, learn a completely new technology, and come up with great ideas. Students have 24 hours to work on a project of their choice, and HackCU gives students the resources, space, and time to create something amazing.
 
 ---
