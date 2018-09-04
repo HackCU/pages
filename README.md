@@ -1,11 +1,10 @@
 
-<br>
 <p align="center">
-  <img alt="HackCU IV" src="https://github.com/HackCU/splash-page/blob/master/img/hackcu_black.png" width="200"/>
+  <img alt="HackUPC 2018" src="https://github.com/hackupc/frontend/blob/master/src/images/hackupc-ogimage@2x.png" width="200"/>
 </p>
 <br>
 
-📄 Static pages with HackCU documentation
+📄 Static pages with HackUPC documentation
 
 # Run project
 
@@ -13,7 +12,7 @@ Needs: Ruby
 
 ## Local 
 
-1. `git clone https://github.com/hackcu/pages && cd pages`
+1. `git clone https://github.com/hackupc/pages && cd pages`
 2. `gem install jekyll && gem install jemoji`
 3. `jekyll serve --watch`
 
@@ -35,7 +34,7 @@ Deployment is done automatically by [GitHub pages](https://pages.github.com/). Y
 ---
 layout: base
 title: Hacker Guide
-description: This is a hacker guide for HackCU IV edition
+description: This is a hacker guide for HackUPC 2018
 ---
 ```
 
