@@ -1,9 +1,10 @@
-- name: "Our events:"
-- name: HackCU
-  url: https://hackcu.org/
-- name: Local Hack Day
-  url: https://local.hackcu.org/
-- name: S2S
-  url: https://startups2students.org/
-- name: CU Workshops
-  url: https://events.hackcu.org/
+- name: HackUPC
+  url: https://hackupc.com/
+- name: Hackers at UPC
+  url: https://hackersatupc.org/
+- name: Registration
+  url: https://my.hackupc.com/
+- name: Maps
+  url: https://maps.hackupc.com/
+- name: Live
+  url: https://live.hackupc.com/
