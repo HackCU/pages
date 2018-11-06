@@ -19,7 +19,7 @@ We're so excited to have you at Phase! We've put together this comprehensive hac
 - Notebook/ Paper & Pen 
 
 
-Phase is going to take place in the <a href="">Idea Forge</a>. 
+Phase is going to take place in the [Idea Forge](https://goo.gl/maps/Ly4NbHA28R82). 
 
 ### Directions :round_pushpin:
 
@@ -32,7 +32,7 @@ From there you can take a bus (FF1, FF2, FF5, DASH or AB1) towards Boulder and s
 
 ### Checking-in at Phase :wave:
 
-In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at [my.hackcu.org](https://my.hackcu.org). You will be provided with a badge and a bagpack with swag. If you arrive later, look for an organizer for late check-in. 
+In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at [my.hackcu.org](https://my.hackcu.org). You will be provided with a bracelet. If you arrive later, look for an organizer for late check-in. 
 
 -----
 
@@ -42,7 +42,7 @@ In order to make check-in go smoother, please show us the QR code you got in you
 
 **The #1 rule is "Be respectful"**.
 
-Please read [HackCU's code of conduct](https://pages.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. 
+Please read [HackCU's code of conduct](https://pages.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. Also read the rules of the competition in our [live page](https://live.hackcu.org/rules/).
 
 ### Hacking :bulb:
 
