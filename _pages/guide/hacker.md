@@ -58,7 +58,7 @@ We will some sweet hardware for you to hack on. You can check the full list on o
 
 ### Slack :exclamation:
 
-Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for HackCU IV. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
+Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for Phase. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
 
 - \#announcements: We will be using this to announce our intro talks, food being served and stuff about Phase. :loudspeaker:
 - \#general: Talk about Phase and get to know each other! `if (message.randomness > 0.5): message.post(#random)`
