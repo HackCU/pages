@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Volunteer guide
-description: Volunteering at HackCU
+description: Volunteering at Phase
 ---
 
 
@@ -10,7 +10,7 @@ First of all, in the name of the HackCU team, we’d like to thank you all for s
 ## When to be here
 
 
-All of you completed a [doodle](https://doodle.com/poll/bvqnefemfbb3rwc2) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for HackCU](https://www.google.com/maps/dir//40.0097787,-105.2424016/@40.0097782,-105.2464652,16z/data=!4m2!4m1!3e2) at 5PM on Friday 23rd. We will meet on the Cafe area.
+All of you completed a [doodle](https://doodle.com/poll/c875uqdaqxqr3nv2c) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for HackCU](https://goo.gl/maps/QkJmArtxC3t) at 6PM on Friday 9th. We will meet on the Commons area.
 
 ----
 
@@ -28,7 +28,7 @@ Make sure to:
 
 ## Tasks
 
-During HackCU, Gerard and Mackenzie will be your main point of contact. If they are not around, other main organizers (blue t-shirts) will tell you what to do. The main tasks will be checking in hackers, preparing food when they arrive, giving snacks, attend any hacker, help setting up and help tearing down the venue. In case of doubts, go to HQ (N104) and ask an organizer there.
+During Phase, Gerard and Mackenzie will be your main point of contact. If they are not around, other main organizers will tell you what to do. The main tasks will be checking in hackers, preparing food when they arrive, giving snacks, attend any hacker, help setting up and help tearing down the venue. In case of doubts, ask an organizer.
 
 ----
 
@@ -36,7 +36,7 @@ During HackCU, Gerard and Mackenzie will be your main point of contact. If they 
 
 ### Hackers
 
-Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for HackCU :-). You will be seating on S1 corridor between A5-A6 (called check-in area from now on).
+Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for Phase :-). You will be seating downstairs next to the door (called check-in area from now on).
 
 The check-in algorithm will be the following:
 - Go to [MyHackCU](https://my.hackcu.org)
@@ -54,12 +54,12 @@ The check-in algorithm will be the following:
   - Give Swag bag. Happy Hacking!
 - If not found
   - Contact an organizer (blue t-shirt) 
-  - Check in using [manual check-in](https://docs.google.com/spreadsheets/d/164qm3gUrtBwylIpTbqS1tjTt8KyvbDM5D__-954FUNc/edit?usp=sharing)
+  - Check in using [manual check-in](https://docs.google.com/spreadsheets/d/1SM1GJPAbGPzDQDoTmGO5ceoKHlkxPhOJxrfhCefVtqc/edit?usp=sharing)
 
 ### Mentors
 
 The check-in algorithm will be the following:
-- Go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1kx72TJ1dTKmSlDk1bRsRhVeIUtdBsDm8MNV5xshOveA/edit#gid=0)
+- Go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1WJJUV6a4cRnYE26YlNmx0wtx8UvJJWo40coz-noSEEg/edit#gid=0)
 - Greet Mentor, ask for Government ID
 - Check name in ID on spreadsheet
 - If found:
@@ -82,20 +82,10 @@ Reach out to an organizer.
 
 ----
 
-## Badges
+## Bracelets
 
-Here are the different color badges that will be available during the event:
+You will be provided with information about bracelets at the time of check-in.
 
-![Hacker badge](/assets/img/badgehacker.png)
-
-![Mentor badge](/assets/img/badgementor.png)
-
-![Sponsor badge](/assets/img/badgesponsor.png)
-
-
-## Lanyards
-
-Green lanyards are for hackers that are okay with being taken pictures during the event. Black ones are for those that have not accepted.
 
 ---
 
@@ -103,32 +93,6 @@ Green lanyards are for hackers that are okay with being taken pictures during th
 ## What happens if I don’t know something?
 During the event, hackers will ask you lots of questions, it’s okay if you don’t know the answer. When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the #admin-volunteers slack channel or through the phone.
 
-
-----
-
-## Hardware Lab
-Check hardware using the laptop designated for this task.
-
-During the hacking time, there will be available a Hardware Lab (HL) - placed in Front desk - where hackers can go and ask for hardware devices they will use for their hacking.
-
-In order to process a hardware request, you will have to:
-
-- Go to [https://hardware.mlh.io/](https://hardware.mlh.io/)
-- Login using user and password
-- Select Manage on HackCU event
-- Find the corresponding request (search by hacker name)
-- Check the checking-out hardware, collect their ID, click Collect ID and Mark as Checked Out and give hardware
-
-In order to process a hardware return, you will have to
-
-- Go to [https://hardware.mlh.io/](https://hardware.mlh.io/)
-- Select Manage on Hackcu event
-- Find the corresponding request (search by hacker name)
-- Check the checking-in hardware list, check by yourself if hardware is OK, click Return ID and Mark as Checked In and return their ID
-
-**If hacker has already collected hardware and wants more, search for ID and check if it’s the same person with the picture and the name on the badge.**
-
-**If hacker is returning only a part of the collected hardware, don’t return their ID, it has to be returned when he/she has returned all hardware.**
 
 ----
 ## Code of Conduct
@@ -151,16 +115,13 @@ We will be using CU wifi. Use Eduroam or UCB Wireless preferably to let UCB Gues
 
 ### Directions :round_pushpin:
 
-HackCU IV will take place Saturday, February 24th to Sunday February 25th, 2018 at the **SEEC** building at the University of Colorado Boulder, [4001 Discovery Dr, Boulder, CO 80303](https://www.google.com/maps/dir//40.0097787,-105.2424016/@40.0097782,-105.2464652,16z/data=!4m2!4m1!3e2). 
+Phase will take place Saturday, November 10th 2018 at the **Idea Forge** building at the University of Colorado Boulder, [2445 Kittredge Loop Dr, Boulder, CO 80309](https://goo.gl/maps/QkJmArtxC3t). 
 
 ### Parking :car:
 
-{% include sections/parking.md %}
+Unfortunately, due to the football match happenning on the afternoon, **we won't be able to provide free parking nearby**. If you are driving, we recommend you to park at the [Park & Ride at Table Mesa](https://goo.gl/maps/amzucDUXTg32), parking there is free for 24 hours. 
 
-### Buses from Main Campus :bus:
-
-{% include sections/buses.md %}
-
+From there you can take a bus (FF1, FF2, FF5, DASH or AB1) towards Boulder and stop at the **Broadway and Baseline station.** [See route on Google Maps.](https://www.google.com/maps/dir/Idea+Forge,+Boulder,+CO/PARK%E2%80%91N%E2%80%91RIDE,+5170+Table+Mesa+Dr,+Boulder,+CO+80305/@39.9939512,-105.2571256,15z/data=!4m15!4m14!1m5!1m1!1s0x876bedb575700325:0xa2ea7393cf7c4c6d!2m2!1d-105.2633885!2d40.0020079!1m5!1m1!1s0x876bed77db10cc37:0x148e6c81fc2d1689!2m2!1d-105.2331406!2d39.9865799!3e3!5i1)
 
 ----
 
@@ -191,7 +152,7 @@ Gerard:  720 755 1095
 ### IN CASE OF OTHER INCIDENTS
 **(Harassment at the event, dangerous behaviour, etc.)**
 
-Call Gerard or ?
+Call Gerard:
 - Gerard: 720 755 1095 
 
 ---
