@@ -10,7 +10,7 @@ First of all, in the name of the HackCU team, we’d like to thank you all for s
 ## When to be here
 
 
-All of you completed a [doodle](https://doodle.com/poll/c875uqdaqxqr3nv2c) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for HackCU](https://goo.gl/maps/QkJmArtxC3t) at 6PM on Friday 9th. We will meet on the Commons area.
+All of you completed a [doodle](https://doodle.com/poll/c875uqdaqxqr3nv2c) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for Phase](https://goo.gl/maps/QkJmArtxC3t) at 6PM on Friday 9th. We will meet on the Commons area.
 
 ----
 
