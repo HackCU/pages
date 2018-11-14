@@ -1,10 +1,10 @@
 ---
 layout: base
 title: Sponsor guide
-description: Sponsor guide for HackCU Episode IV
+description: Sponsor guide for HackCU Episode V
 ---
 
-HackCU is truly honored to have you sponsor HackCU IV this year! This event would not be possible or as successful without you. 
+HackCU is truly honored to have you sponsor HackCU V this year! This event would not be possible or as successful without you. 
 Because of your contribution, you will be helping students work on projects, learn a completely new technology, and come up with great ideas. Students have 24 hours to work on a project of their choice, and HackCU gives students the resources, space, and time to create something amazing.
 
 ---
@@ -109,9 +109,9 @@ Make sure to tag social media posts related to the event with **[\#HackCU](https
 ## Links
 
 - Our website: [hackcu.org](https://hackcu.org)
-- Live page: *Coming soon*
+- Live page: [live.hackcu.org](https://live.hackcu.org)
 - Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
-- Devpost: [hackcu4.devpost.com](https://hackcu4.devpost.com) 
+- Devpost: _(soon)_
 
 ----
 

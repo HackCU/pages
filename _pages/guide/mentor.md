@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Mentor guide
-description: Guide to mentor during HackCU Episode IV
+description: Guide to mentor during HackCU Episode V
 ---
 
 First of all, in the name of the HackCU team, we’d like to thank you all for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn all about a new technology, and come up with creative ideas**. Participants will then have 24 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing. 
@@ -20,7 +20,7 @@ During the event, we expect mentors to:
 - Act as helpers, moving from group to group and helping hackers with any questions or roadblocks they have. However, mentors can’t submit a project or contribute in a team’s project in such a way that a project is mainly his/her work. Their task is to guide and help teams to carry on their own projects.
 - Help hackers building their team at the team building event, which takes place at the beginning of the hackathon.
 - Join HackCU's Slack: [slack.hackcu.org](https://slack.hackcu.org)
-- Hacking at HackCU IV starts at 12.00 P.M on Saturday and ends at 12.00 P.M. on Sunday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at any time that is convenient to you. 
+- Hacking at HackCU V starts at 12.00 P.M on Saturday and ends at 12.00 P.M. on Sunday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at any time that is convenient to you. 
 - Check out help requests through our communication channels:
 	- Messages from the #mentors Slack channel (join slack [here](https://slack.hackcu.org))
 	- Requests from the mentors app ([mentors.hackcu.org](https://mentors.hackcu.org/join/mentors)). 
@@ -42,10 +42,6 @@ We want you to have a great hackathon experience. As a mentor, you will be able 
 
 >SEEC Building, 4001 Discovery Dr
 >Boulder, CO 80303
-
-### Buses
-
-{% include sections/buses.md %}
 
 ### What should I bring?
 
@@ -74,7 +70,7 @@ You will see check in when you arrive. Please provide your name to the check in 
 ## Links you need!
 
 - Our website: [hackcu.org](https://hackcu.org)
-- Live page: *Coming soon*
+- Live page: [live.hackcu.org](https://live.hackcu.org)
 - Join slack: [slack.hackcu.org](https://slack.hackcu.org)
 - Slack: [hackcu.slack.com](https://hackcu.slack.com)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)

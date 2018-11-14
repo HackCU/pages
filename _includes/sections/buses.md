@@ -1,4 +1,4 @@
-We will have a mini-bus running from Main Campus to the venue. Here are the schedules for the buses.
+<!-- We will have a mini-bus running from Main Campus to the venue. Here are the schedules for the buses.
 
 
 #### Saturday routes
@@ -10,7 +10,7 @@ We will have a mini-bus running from Main Campus to the venue. Here are the sche
 #### Sunday routes
 
 | 6:00AM to 8:30AM | **[SEEC building (Lot 556) -> Chautauqua Park -> Fiske Planetarium (Lot 308)  -> Engineering Center (Lot 436) -> SEEC building (Lot 556)](https://goo.gl/maps/K9hXJh4fYWP2)** |
-| 8:30AM to 5:30PM | **[SEEC building (Lot 556) -> UMC (Lot 204) -> Engineering Center (Lot 436) -> SEEC building (Lot 556)](https://goo.gl/maps/XRgACJvkS8P2)** |
+| 8:30AM to 5:30PM | **[SEEC building (Lot 556) -> UMC (Lot 204) -> Engineering Center (Lot 436) -> SEEC building (Lot 556)](https://goo.gl/maps/XRgACJvkS8P2)** | -->
 
 
-
+_(soon)_
