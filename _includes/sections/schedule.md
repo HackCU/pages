@@ -3,7 +3,7 @@
 
 Here are some important times to be aware of:
 
-**February 24th (Saturday)**
+**February 23rd (Saturday)**
 
 - 8:00 AM - Check-in
 - 8:00 AM - Breakfast
@@ -16,7 +16,7 @@ Here are some important times to be aware of:
 - 6:00 PM - Dinner
 - 11:00 PM - Late Night Dessert
 
-**February 25th (Sunday)**
+**February 24th (Sunday)**
 
 - 6:00 AM - Special Event
 - 7:30 AM - Breakfast
