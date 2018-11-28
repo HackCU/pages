@@ -20,7 +20,7 @@ All communication will be done through [Slack](https://hackcu.slack.com) and pho
 We will have one private channel for volunteers named #admin-volunteers. Send a private message to @gerard so he adds you to it.
 Please do not talk about organizing/volunteer stuff on the public channels. If you have not received yet your invitation, make sure to contact an organizer. 
 Make sure to:
-- [Sign up on Slack](https://slack.hackcu.org)
+- [Sign up on Slack](localhackday.slack.com), join the #lhd-boulder channel
 - Download the Slack App
 - [Enable](https://get.slack.help/hc/en-us/articles/201398457-Mobile-push-notifications) all push notifications for mentions.
 
