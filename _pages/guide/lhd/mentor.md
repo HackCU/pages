@@ -70,6 +70,7 @@ You will see check in when you arrive. Please provide your name to the check in 
 - Our website: [local.hackcu.org](https://local.hackcu.org)
 - Live page: [live.hackcu.org](https://live.hackcu.org)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
+- SLack: [localhackday.slack.com](localhackday.slack.com), join the #lhd-boulder channel
 
 ## Social Media
 
