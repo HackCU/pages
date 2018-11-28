@@ -58,7 +58,7 @@ Local Hack Day is meant as a time for hackers to work on whatever projects they 
 
 ### Slack :exclamation:
 
-You should have received an invite to join [Local Hack Day Slack](https://localhackday.slack.com). Once there, join [#lhd-boulder](https://localhackday.slack.com/messages/CE5PG4TS8/) channel to talk with all the local hackers attending our Boulder event.</p>
+You should have received an invite to join [Local Hack Day Slack](https://localhackday.slack.com). Once there, join [#lhd-boulder](https://localhackday.slack.com/messages/CE5PG4TS8/) channel to talk with all the local hackers attending our Boulder event.
 
 
 ### Preliminary Schedule :alarm_clock:
