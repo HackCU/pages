@@ -107,6 +107,12 @@ Make sure to tag social media posts related to the event with **\#LHDCU**. We'll
 - Devpost: [mlh-local-hack-day-2018.devpost.com](https://mlh-local-hack-day-2018.devpost.com/)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
 
+## Programming Game links
+
+- Halite: [https://halite.io/learn-programming-challenge/tutorials](https://halite.io/learn-programming-challenge/tutorials)
+- \>Terminal: [Rules](https://terminal.c1games.com/rules), [Starter Kit](https://github.com/correlation-one/C1GamesStarterKit)
+- Coders Strike Back: [https://www.codingame.com/multiplayer/bot-programming/coders-strike-back](https://www.codingame.com/multiplayer/bot-programming/coders-strike-back)
+
 -----
 
 ## More questions?
