@@ -4,7 +4,7 @@ title: Project Ideas
 description: Project Suggestions
 ---
 
-Hackathons can be intimidating, especially as someone without much technical experience. That's 100% okay, because Local Hack Day is meant to serve as a supportive environment where you can take the time to learn something new! If you ever get stuck, seek help! There are mentors (and some peers) willing to lend a helping hand! Also feel free to ask questions on our [Slack](hackcu.slack.com).
+Hackathons can be intimidating, especially as someone without much technical experience. That's 100% okay, because Local Hack Day is meant to serve as a supportive environment where you can take the time to learn something new! If you ever get stuck, seek help! There are mentors (and some peers) willing to lend a helping hand! Also feel free to ask questions on the #lhd-boulder channel on [Slack](localhackday.slack.com).
 
 Here are some project ideas to start you off (for students who are taking/have taken CSCI 1300/2270, this is a great starting point)!
 
