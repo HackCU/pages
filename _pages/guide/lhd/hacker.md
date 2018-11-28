@@ -58,17 +58,7 @@ Local Hack Day is meant as a time for hackers to work on whatever projects they 
 
 ### Slack :exclamation:
 
-Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for Phase. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
-
-- \#announcements: We will be using this to announce our intro talks, food being served and stuff about LHD. :loudspeaker:
-- \#general: Talk about LHD and get to know each other! `if (message.randomness > 0.5): message.post(#random)`
-- \#formingteams: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
-- \#whatmusicdoyoulike: Have a playlist you'd like to share with hackers? Or a song request? :notes:
-- \#mentors: Mentors will hangout here as well as in our mentor app ([mentors.hackcu.org](https://mentors.hackcu.org))!
-- \#random: THE GIPHY channel (jk, say whatever there)
-- \#looking_for_jobs: Post your Linkedin so that recruiters can find you!
-- \#twitter: You can see here all our post on Twitter and all conversations we have! :bird:
-- \#food: Have any recommendations for snacks you'd like us to pick up? We'll also be making anouncements about food and snacks here. :fries:
+You should have received an invite to join [Local Hack Day Slack](https://localhackday.slack.com). Once there, join [#lhd-boulder](https://localhackday.slack.com/messages/CE5PG4TS8/) channel to talk with all the local hackers attending our Boulder event.</p>
 
 
 ### Preliminary Schedule :alarm_clock:
@@ -85,7 +75,7 @@ To be updated soon
 ### Forming Teams :smiley:
 
 - Team sizes are limited to a maximum of **4** people each
-- Join the \#formingteams channel on our [Slack](http://slack.hackcu.org) to meet other hackers and potential team members before the event
+- Join the [#lhd-boulder](https://localhackday.slack.com/messages/CE5PG4TS8/) channel on the [Local Hack Day Slack](https://localhackday.slack.com)to meet other hackers and potential team members before the event
 - We will also have a team formation event before the hacking begins!
 
 
@@ -111,11 +101,10 @@ Make sure to tag social media posts related to the event with **\#LHDCU**. We'll
 
 ## Links you need!
 
-- Our website: [phase.hackcu.org](https://phase.hackcu.org)
-- Live page: [live.hackcu.org](https://hackcu.org)
-- Slack: [hackcu.slack.com](https://hackcu.slack.com)
-- Join Slack: [slack.hackcu.org](https://slack.hackcu.org)
-- Devpost: [phase.devpost.com](https://phase.devpost.com)
+- Our website: [local.hackcu.org](https://local.hackcu.org)
+- Live page: [live.hackcu.org](https://live.hackcu.org)
+- Slack: [localhackday.slack.com](https://localhackday.slack.com)
+- Devpost: [mlh-local-hack-day-2018.devpost.com](https://mlh-local-hack-day-2018.devpost.com/)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
 
 -----

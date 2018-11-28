@@ -19,10 +19,8 @@ During the event, we expect mentors to:
 
 - Act as helpers, moving from group to group and helping hackers with any questions or roadblocks they have. However, mentors can’t submit a project or contribute in a team’s project in such a way that a project is mainly his/her work. Their task is to guide and help teams to carry on their own projects.
 - Help hackers building their team at the team building event, which takes place at the beginning of the hackathon.
-- Join HackCU's Slack: [slack.hackcu.org](https://slack.hackcu.org)
 - Hacking at Local Hack Day starts at 09.00 A.M on Saturday and ends at 09.00 P.M. on Saturday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at any time that is convenient to you. 
 - Check out help requests through our communication channels:
-	- Messages from the #mentors Slack channel (join slack [here](https://slack.hackcu.org))
 	- Requests from the mentors app ([mentors.hackcu.org](https://mentors.hackcu.org/join/mentors)). 
 	- Guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp). 
 	- To become a mentor sign up using this url: [mentors.hackcu.org/join/mentors](mentors.hackcu.org/join/mentors)
@@ -69,11 +67,8 @@ You will see check in when you arrive. Please provide your name to the check in 
 
 ## Links you need!
 
-- Our website: [hackcu.org](https://hackcu.org)
-- Our LHD Website: [hackcu.org](https://local.hackcu.org/)
+- Our website: [local.hackcu.org](https://local.hackcu.org)
 - Live page: [live.hackcu.org](https://live.hackcu.org)
-- Join slack: [slack.hackcu.org](https://slack.hackcu.org)
-- Slack: [hackcu.slack.com](https://hackcu.slack.com)
 - Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
 
 ## Social Media
