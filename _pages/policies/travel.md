@@ -18,7 +18,7 @@ Parking will be available in the parking lot outside of SEEC on Discovery Drive.
 
 You should book flights into Denver International Airport (DEN). From there you can take the AB line that runs from the airport directly to campus. The bus schedule and fares can be found [here](http://www3.rtd-denver.com/schedules/getSchedule.action?routeId=AB). You can buy tickets at the airport, paying directly to the driver with cash, or through the [RTD Mobile Ticket app](http://www.rtd-denver.com/mobileticket.shtml). Also, make sure to bring $9.00 cash for the bus ride back to the airport as there are no ticket machines where you can pay with card near our campus. Keep your bus receipts so we can reimburse you later if you were approved for reimbursement.
 
-From the airport, take the [AB line](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2431&routeId=AB&routeType=9&&direction=W-Bound&serviceType=1#day) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder. Once there, go to [Lot 204](https://goo.gl/maps/qT5msk6QzBL2) to take our mini bus to the venue.
+From the airport, take the [AB line](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2431&routeId=AB&routeType=9&&direction=W-Bound&serviceType=1#day) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder. 
 
 ## International Travel
 
@@ -32,7 +32,7 @@ Whether you're flying in or taking the public bus, you will have **5 days to RSV
 
 ## Dates and time
 
-You should anticipate arriving by or before **8 AM Saturday, February 24th** and leaving after **5 PM on Sunday, February 25th**.
+You should anticipate arriving by or before **8 AM Saturday, February 23rd** and leaving after **5 PM on Sunday, February 24th**.
 
 ---
 
@@ -60,8 +60,7 @@ If you research transportation from your location and find the travel cap to be 
 
 ## Reimbursement method
 
-- We will send reimbursements through checks to the address that you set when submitting your receipt.
-- Checks may take 30-60 days to arrive to you.
+- We will send reimbursements through PayPal or Venmo to the user that you set when submitting your receipt.
 - If you can't sign up to either please send us an email at [contact@hackcu.org](mailto:contact@hackcu.org).
 
 ## Submit your flight/bus receipts
