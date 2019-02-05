@@ -36,7 +36,7 @@ That being said, the teams will be judged on the following four criteria, all of
 - Did the team put thought into the user experience?
 - How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
 
-### Completion:
+### Completion
 - Does the hack work?
 - Did the team achieve everything they wanted?
 - What roadblocks did they find on the way?
