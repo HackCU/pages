@@ -29,6 +29,10 @@ We're so excited to have you at HackCU! We've put together this comprehensive ha
 
 HackCU will take place Saturday, February 23rd 2019 at the **SEEC** building at the University of Colorado Boulder, [4001 Discovery Dr, Boulder, CO 80303](https://goo.gl/maps/Q5rTAsCaU8o). 
 
+### Parking :car:
+
+{% include sections/parking.md %}
+
 
 ### Checking-in at HackCU :wave:
 
