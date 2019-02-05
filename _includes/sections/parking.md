@@ -1,7 +1,7 @@
 
 If you are coming by car, you will need to get a parking permit. To do so, follow the instructions below:
 
-- Go to [uboulder.pmreserve.com](https://ccuboulder.pmreserve.com/). 
+- Go to [cuboulder.pmreserve.com](https://cuboulder.pmreserve.com/). 
 - Select **HackCU** event
 - Add permit to cart. It will say that cost is $10, don't panic though. We got you!
 - Enter promo code **HACK4207**. Total should go down to $0.
