@@ -26,6 +26,6 @@ We're demonstrating software defined radio (SDR), a combination of radio, comput
 All amateur radio operators are issued a unique callsign which identifies their station.  KØH is a special event callsign authorized specifically for HackCU V.  The “H” stands for “hack”.
 
 ## How Do I Learn More?
-The American Radio Relay League is the national association of radio amateurs in the United States and a good source of information.  Check their website:  www.arrl.org/newham
+The American Radio Relay League is the national association of radio amateurs in the United States and a good source of information.  Check their website:  [www.arrl.org/newham](https://www.arrl.org/newham)
 
-Locally, the Boulder Amateur Radio Club ([www.qsl.net/w0dk](www.qsl.net/w0dk)) is a great organization which welcomes newcomers at its meetings and activities.  There is also an amateur radio club on campus!  Please see https://orgsync.com/158436/chapter and http://buffconnectdirectory.orgsync.com/org/amateurradioclub.
+Locally, the Boulder Amateur Radio Club ([www.qsl.net/w0dk](https://www.qsl.net/w0dk)) is a great organization which welcomes newcomers at its meetings and activities.  There is also an amateur radio club on campus!  Please see [orgsync.com/158436/chapter](https://orgsync.com/158436/chapter) and [buffconnectdirectory.orgsync.com/org/amateurradioclub](http://buffconnectdirectory.orgsync.com/org/amateurradioclub).
