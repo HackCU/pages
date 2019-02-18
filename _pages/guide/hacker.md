@@ -104,6 +104,12 @@ Please submit your projects on our [Devpost](hackcuv.devpost.com) by **Sunday 24
 
 Our judging will take place expo style. You'll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you're not finished. 
 
+### HackCU Après :sleeping:         
+                                    
+Due to university policies, we have been warned **against having people sleeping at the venue**. Don't worry though, we are going to have an external venue to sleep in: Galvanize Boulder. We are working on scheduling buses to/from Galvanize. You will be able to get some relaxing time there. We will also have buses to/from Main campus for those of you that may want to go to sleep to your dorms.</p> <p 
+
+If you wish to use this space, please register now using [this EventBrite](https://www.eventbrite.com/e/hackcu-apres-tickets-56536177228) (password: _hackcuAPRES_). **Register as soon as possible, so we can make sure we can accomodate everyone with ease.**</p>
+
 -----
 
 ## Connect with Us :camera:
