@@ -54,6 +54,8 @@ Please read [HackCU's code of conduct](https://pages.hackcu.org/code_conduct/) a
 
 HackCU is meant as a time for hackers to work on whatever projects they like in a low stress, fun, and collaborative environment. This is a great time for hackers to work on projects from previous events. It’s a chance to learn a new technology. 
 
+### Sponsor challenges and tracks
+Some of our sponsors have already uploaded their challenges. Check them out now in our live page: [live.hackcu.org/prizes/](https://live.hackcu.org/prizes/).
 
 ### Hardware :wrench:
 
