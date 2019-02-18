@@ -20,6 +20,10 @@ As a judge you will be briefed at 10:30 AM as a group about how will the expo wo
 
 Judging will take place from 12:30 PM to 2:30 PM. It will be following a science fair project presentation style. More details on the format will be shared during the morning briefing.
 
+## Parking 
+
+{% include sections/parking.md %}
+
 ---
 
 ## Judging criteria
