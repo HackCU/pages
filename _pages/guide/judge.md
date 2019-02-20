@@ -22,7 +22,9 @@ Judging will take place from 12:30 PM to 2:30 PM. It will be following a science
 
 ## Parking 
 
-{% include sections/parking.md %}
+Parking is free on Sunday. Find a spot to park at any of the green areas below.
+
+![SEEC Parking](/assets/img/res/parking.png)
 
 ---
 
