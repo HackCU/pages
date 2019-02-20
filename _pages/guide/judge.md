@@ -14,7 +14,7 @@ First of all, in the name of the HackCU team, we’d like to thank you all for w
 >SEEC Building, 4001 Discovery Dr
 >Boulder, CO 80303
 
-Judges are expected to arrive at 10:00 AM. Upon arrival check in with a volunteer or organizer. They will give you directions on where the judging meeting will be. 
+Judges are expected to arrive on February 24th at 10:00 AM. Upon arrival check in with a volunteer or organizer. They will give you directions on where the judging meeting will be. 
 
 As a judge you will be briefed at 10:30 AM as a group about how will the expo work and how to find projects and evaluate them.
 
