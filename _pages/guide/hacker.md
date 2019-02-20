@@ -29,6 +29,10 @@ We're so excited to have you at HackCU! We've put together this comprehensive ha
 
 HackCU will take place Saturday, February 23rd 2019 at the **SEEC** building at the University of Colorado Boulder, [4001 Discovery Dr, Boulder, CO 80303](https://goo.gl/maps/Q5rTAsCaU8o). 
 
+### Parking :car:
+
+{% include sections/parking.md %}
+
 
 ### Checking-in at HackCU :wave:
 
@@ -50,6 +54,8 @@ Please read [HackCU's code of conduct](https://pages.hackcu.org/code_conduct/) a
 
 HackCU is meant as a time for hackers to work on whatever projects they like in a low stress, fun, and collaborative environment. This is a great time for hackers to work on projects from previous events. It’s a chance to learn a new technology. 
 
+### Sponsor challenges and tracks
+Some of our sponsors have already uploaded their challenges. Check them out now in our live page: [live.hackcu.org/prizes/](https://live.hackcu.org/prizes/).
 
 ### Hardware :wrench:
 
@@ -99,6 +105,12 @@ All of our mentors will be hanging out at [mentors.hackcu.org](https://mentors.h
 Please submit your projects on our [Devpost](hackcuv.devpost.com) by **Sunday 24th 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
 
 Our judging will take place expo style. You'll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you're not finished. 
+
+### HackCU Après :sleeping:         
+                                    
+Due to university policies, we have been warned **against having people sleeping at the venue**. Don't worry though, we are going to have an external venue to sleep in: Galvanize Boulder. We are working on scheduling buses to/from Galvanize. You will be able to get some relaxing time there. We will also have buses to/from Main campus for those of you that may want to go to sleep to your dorms.
+
+If you wish to use this space, please register now using [this EventBrite](https://www.eventbrite.com/e/hackcu-apres-tickets-56536177228) (password: _hackcuAPRES_). **Register as soon as possible, so we can make sure we can accomodate everyone with ease.**
 
 -----
 

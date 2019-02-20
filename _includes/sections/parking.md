@@ -1,5 +1,14 @@
 
-<!-- Parking will be available in the parking lot outside of SEEC on Discovery Drive. Be sure to follow directions on the signs indicating where you can park. An attendant will be providing parking from **7:00AM to 9:30AM** on Saturday (see green star for their location). If you plan on arriving later than 9:30AM with a car, please let us know by sending an email to [contact@hackcu.org](mailto:contact@hackcu.org). Once the attendant has provided you with a parking pass, you can go in and out parking on the designated areas (on green in the map).
+If you are coming by car, you will need to get a parking permit. To do so, follow the instructions below:
 
-![SEEC Parking](/assets/img/res/parking.png) -->
-_(soon)_
+- Go to [cuboulder.pmreserve.com](https://cuboulder.pmreserve.com/). 
+- Select **HackCU** event
+- Add permit to cart. It will say that cost is $10, don't panic though. We got you!
+- Enter promo code **HACK4207**. Total should go down to $0.
+- Press **Continue to checkout**.
+- Fill all the details asked (including vehicle details).
+- Print permit and remember to bring it with you during the event! Don't worry if you forget to do so, we can print the permit at the venue itself as well.
+
+Be sure to follow directions on the signs indicating where you can park. **Parking outside of green areas on the map are not valid for the issued permit!!**
+
+![SEEC Parking](/assets/img/res/parking.png)

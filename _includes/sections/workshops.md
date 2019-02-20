@@ -1,7 +1,3 @@
-<!-- We have curated various workshops & events for you to explore.
+ We have curated various workshops & events for you to explore.
 
-- **Workshop: Xilinx Jayson Betherum**
-- **Workshop: Arduino LED:** Build your first Arduino hack with LEDs.
-- **Workshop: Embedded Systems** 
-- **Paper airplane competition:** Build and compete to make the best **EVER** paper airplane. Prizes will be random. -->
-_(soon)_
+Check out a list of workshops and side events update in **our [live page](https://live.hackcu.org/events/)**.
