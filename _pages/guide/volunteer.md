@@ -7,11 +7,6 @@ description: Volunteering at Phase
 
 First of all, in the name of the HackCU team, we’d like to thank you all for signing up as a volunteer. This event would not be complete without you. We hope you are as excited as we are to make this event possible as we are. 
 
-## When to be here
-
-
-All of you completed a [doodle](https://doodle.com/poll/c875uqdaqxqr3nv2c) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for Phase](https://goo.gl/maps/QkJmArtxC3t) at 6PM on Friday 9th. We will meet on the Commons area.
-
 ----
 
 ## Communication
@@ -24,11 +19,11 @@ Make sure to:
 - Download the Slack App
 - [Enable](https://get.slack.help/hc/en-us/articles/201398457-Mobile-push-notifications) all push notifications for mentions.
 
-----
+<!-- ----
 
 ## Tasks
 
-During Phase, Gerard and Mackenzie will be your main point of contact. If they are not around, other main organizers will tell you what to do. The main tasks will be checking in hackers, preparing food when they arrive, giving snacks, attend any hacker, help setting up and help tearing down the venue. In case of doubts, ask an organizer.
+During HackCU, Gerard and Mackenzie will be your main point of contact. If they are not around, other main organizers will tell you what to do. The main tasks will be checking in hackers, preparing food when they arrive, giving snacks, attend any hacker, help setting up and help tearing down the venue. In case of doubts, ask an organizer. -->
 
 ----
 
@@ -36,7 +31,7 @@ During Phase, Gerard and Mackenzie will be your main point of contact. If they a
 
 ### Hackers
 
-Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for Phase :-). You will be seating downstairs next to the door (called check-in area from now on).
+Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for HackCU :-).
 
 The check-in algorithm will be the following:
 - Go to [MyHackCU](https://my.hackcu.org)
@@ -54,12 +49,12 @@ The check-in algorithm will be the following:
   - Give Swag bag. Happy Hacking!
 - If not found
   - Contact an organizer (blue t-shirt) 
-  - Check in using [manual check-in](https://docs.google.com/spreadsheets/d/1SM1GJPAbGPzDQDoTmGO5ceoKHlkxPhOJxrfhCefVtqc/edit?usp=sharing)
+  - Check in using [manual check-in](https://docs.google.com/spreadsheets/d/1wwozqNGk_FxHOQZzHFA7KO3zv3-vRs4PRd7na10IYus/edit?usp=sharing)
 
 ### Mentors
 
 The check-in algorithm will be the following:
-- Go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1WJJUV6a4cRnYE26YlNmx0wtx8UvJJWo40coz-noSEEg/edit#gid=0)
+- Go to this [spreadsheet](https://docs.google.com/spreadsheets/d/1KFYv6T4tbCEQUUqHcRNyTGAKgHDoiZBWA31Sjd89qOo/edit?usp=sharing)
 - Greet Mentor, ask for Government ID
 - Check name in ID on spreadsheet
 - If found:
@@ -69,7 +64,7 @@ The check-in algorithm will be the following:
   - Else: keep going
   - Ask if she/he is okay with being taken pictures during the event
   - Give correct lanyard according to his/her response on the previous question
-  - Check T-shirt Size in MyHackCU and give correct T-shirt
+  - Check T-shirt Size on Spreadsheet
   - Info about opening ceremony (starts at 10AM on Auditorium) and live page (live.hackcu.org)
   - Thank them for coming!
 - If not found
@@ -79,13 +74,6 @@ The check-in algorithm will be the following:
 ### Sponsors
 
 Reach out to an organizer.
-
-----
-
-## Bracelets
-
-You will be provided with information about bracelets at the time of check-in.
-
 
 ---
 
@@ -113,15 +101,16 @@ We will be using CU wifi. Use Eduroam or UCB Wireless preferably to let UCB Gues
 - Laptop Charger (optional)
 - Comfortable Clothes
 
-### Directions :round_pushpin:
+### Directions 
 
-Phase will take place Saturday, November 10th 2018 at the **Idea Forge** building at the University of Colorado Boulder, [2445 Kittredge Loop Dr, Boulder, CO 80309](https://goo.gl/maps/QkJmArtxC3t). 
+>SEEC Building, 4001 Discovery Dr
+>Boulder, CO 80303
 
-### Parking :car:
+HackCU will take place Saturday, February 23rd 2019 at the **SEEC** building at the University of Colorado Boulder, [4001 Discovery Dr, Boulder, CO 80303](https://goo.gl/maps/Q5rTAsCaU8o). 
 
-Unfortunately, due to the football match happenning on the afternoon, **we won't be able to provide free parking nearby**. If you are driving, we recommend you to park at the [Park & Ride at Table Mesa](https://goo.gl/maps/amzucDUXTg32), parking there is free for 24 hours. 
+### Parking 
 
-From there you can take a bus (FF1, FF2, FF5, DASH or AB1) towards Boulder and stop at the **Broadway and Baseline station.** [See route on Google Maps.](https://www.google.com/maps/dir/Idea+Forge,+Boulder,+CO/PARK%E2%80%91N%E2%80%91RIDE,+5170+Table+Mesa+Dr,+Boulder,+CO+80305/@39.9939512,-105.2571256,15z/data=!4m15!4m14!1m5!1m1!1s0x876bedb575700325:0xa2ea7393cf7c4c6d!2m2!1d-105.2633885!2d40.0020079!1m5!1m1!1s0x876bed77db10cc37:0x148e6c81fc2d1689!2m2!1d-105.2331406!2d39.9865799!3e3!5i1)
+{% include sections/parking.md %}
 
 ----
 
@@ -133,7 +122,6 @@ From there you can take a bus (FF1, FF2, FF5, DASH or AB1) towards Boulder and s
 
 
 ## Emergency Contacts
-Campus security: ?
 Emergencies: 911
 Gerard:  720 755 1095
 
@@ -146,7 +134,7 @@ Gerard:  720 755 1095
 **DO IN THE FOLLOWING ORDER:**
 - Find Security officer in the venue
 - If you can't find him, call 911
-- Call Gerard or ?
+- Call Gerard 
   - Gerard:  720 755 1095 
 
 ### IN CASE OF OTHER INCIDENTS
