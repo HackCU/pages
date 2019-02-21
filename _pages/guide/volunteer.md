@@ -124,6 +124,7 @@ HackCU will take place Saturday, February 23rd 2019 at the **SEEC** building at 
 ## Emergency Contacts
 Emergencies: 911
 Gerard:  720 755 1095
+Mackenzie: 303 563 9440
 
 
 
@@ -134,14 +135,16 @@ Gerard:  720 755 1095
 **DO IN THE FOLLOWING ORDER:**
 - Find Security officer in the venue
 - If you can't find him, call 911
-- Call Gerard 
+- Call Gerard or Mackenzie
   - Gerard:  720 755 1095 
+  -  Mackenzie: 303 563 9440
 
 ### IN CASE OF OTHER INCIDENTS
 **(Harassment at the event, dangerous behaviour, etc.)**
 
-Call Gerard:
-- Gerard: 720 755 1095 
+Call Gerard or Mackenzie:
+- Gerard: 720 755 1095
+- Mackenzie: 303 563 9440 
 
 ---
 
