@@ -12,13 +12,11 @@ Here are some important times to be aware of:
 - 12:00 PM - Hacking Begins!
 - 12:00 PM - Lunch
 - 1:00 PM - Intro workshops
-- 4:00 PM - Special Event
 - 6:00 PM - Dinner
 - 11:00 PM - Late Night Dessert
 
 **February 24th (Sunday)**
 
-- 6:00 AM - Special Event
 - 7:30 AM - Breakfast
 - 12:00 PM - Lunch
 - 12:00 PM - Hacking Ends!
