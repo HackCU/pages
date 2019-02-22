@@ -25,7 +25,7 @@ During the event, we expect mentors to:
 	- Messages from the #mentors Slack channel (join slack [here](https://slack.hackcu.org))
 	- Requests from the mentors app ([mentors.hackcu.org](https://mentors.hackcu.org/join/mentors)). 
 	- Guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp). 
-	- To become a mentor sign up using this url: [mentors.hackcu.org/join/mentors](mentors.hackcu.org/join/mentors)
+	- To become a mentor sign up using this url: [mentors.hackcu.org/join/mentors](https://mentors.hackcu.org/join/mentors)
 
 ## What benefits do I get as a Mentor?
 
