@@ -1,136 +1,163 @@
 ---
 layout: base
-title: HackCU IV Hacker Guide
-description: The extensive guide to make your experience at HackCU IV amazing!
+title: HackUPC Hacker Guide
+description: The extensive guide to make your experience at HackUPC amazing!
 ---
 
-We're so excited to have you at HackCU IV! We've put together this comprehensive hacker guide to help you get ready for the big weekend. We've included important information regarding logistics, events, and resources in this guide.
+Hi, hacker! We’re very excited to share this amazing weekend with you. This guide will help you get ready so that you don’t miss anything and can enjoy it to the fullest. Pay attention, as we have included all the important information that you need to know.
 
-----
+---
 
 ## Before the event 
 
 ### What to Bring :briefcase:
 
-- **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware from MLH. 
+- **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware. 
 - Laptop, Phone, Chargers, and Other Devices - Don't forget to bring your chargers and extra batteries for any device you'll be using. 
 - Headphones 
-- Warm Clothes & Layers - Boulder can get very cold in February! 
-- Toiletries - We'll be providing you with the essentials (toothpaste, toothbrush, floss, facial wipes). Please  bring any additional items, medications, etc. you may need. 
-- Comfortable/spare clothes - If the weather permits, we have a few outdoor events planned. 
-- Notebook/ Paper & Pen 
-- You may bring a pillow/blanket if you'd like
+- Comfortable clothes.
+- Headphones
+- Towel and toiletry - We will have showers available and encourage you to use them!
+- Sleeping bag - If you’re sensitive to cold and plan to sleep, it may be a good option.
 
+We will give out a water bottle, sleeping mask and ear plugs, so you don’t need to bring them with you.
 
-### Directions :round_pushpin:
+### Location :round_pushpin:
 
-HackCU IV will take place Saturday, February 24th to Sunday February 25th, 2018 at the **SEEC** building at the University of Colorado Boulder, [4001 Discovery Dr, Boulder, CO 80303](https://www.google.com/maps/dir//40.0097787,-105.2424016/@40.0097782,-105.2464652,16z/data=!4m2!4m1!3e2). 
+“Edifici A5 del Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona”
 
-If you're flying into [DEN](https://www.flydenver.com/), we recommend using public transportation from the airport to get to the venue. From the airport, take the [AB line](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2431&routeId=AB&routeType=9&&direction=W-Bound&serviceType=1#day) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder— it only costs $9.00 each way. Once there, go to [Lot 204](https://goo.gl/maps/qT5msk6QzBL2) to take our mini bus to the venue.
+HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). 
 
-Make sure to check the extensive [travel guide](https://pages.hackcu.org/policies/travel/) for more information about other modes of transportation, reimbursements, etc.
+#### Directions
 
-Almost all of our events will take place in the SEEC building. We'll have volunteers and organizers help lead you to our other event locations. 
+**From the airport:** Take the L9 line of the metro until the last stop, Zona Universitària. From there, it’s a 5-10min walk until the university. The fare for a single ticket from the airport is 4.60€.
+Another option is taking the train from the station in terminal T2 until Sants Estació, then taking the L3 line of the metro until Palau Reial. This combination will cost you 4.40€, but requires a transfer and takes more time.
 
-### Parking :car:
+**From the city center:** Take the L3 line of the metro until Palau Reial. From there, it’s a 5-10min walk until the university. The fare for a single ticket is 2.20€
+Other options, depending on where are you coming from, are the tram (lines T1, T2 and T3) or the bus (lines 7, 33, 63 among others). The fare for a single ticket in both cases is also 2.20€.
 
-{% include sections/parking.md %}
+----
 
-### Buses from Main Campus :bus:
+## During the event
 
-{% include sections/buses.md %}
+### Slack :speech_balloon:
 
-### Checking-in at HackCU :wave:
-
-In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at [my.hackcu.org](https://my.hackcu.org). You will be provided with a badge and a bagpack with swag. If you arrive later, look for an organizer with a blue t-shirt for late check-in. 
-
------
-
-## During the Event
-
-### Rules :point_left:
-
-**The #1 rule is "Be respectful"**.
-
-Please read [HackCU's code of conduct](https://my.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. 
-
-### Hacking :bulb:
-
-**No coding is allowed before 12:00 PM on Saturday**
-You can hack freely in SEEC building in the first floor rooms marked as “Hacker Space.” Some classrooms will be closed for HackCU side events.
-
-You must come with fresh code. Nothing but open source libraries or empty files to begin. Version control repos and honor system are the standards for measurement.
-
-### Hardware :wrench:
-
-MLH will bring their awesome hardware lab, including Oculus Rift, Leap Motion, Amazon Echo, Muse headband and a lot more! Stay tuned to the live page for the complete list of hardware available for you.
-
-
-### Slack :exclamation:
-
-Please make sure to sign up for our Slack team at [slack.hackcu.org](http://slack.hackcu.org). This will be our primary method of communication for HackCU IV. We'll notify you here about any important information, workshops, food. etc. We have many channels you can join, here are some important ones: 
-
-- \#announcements: We will be using this to announce our intro talks, food being served and stuff about HackCU. :loudspeaker:
-- \#general: Talk about HackCU and get to know each other! `if (message.randomness > 0.5): message.post(#random)`
-- \#formingteams: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
-- \#whatmusicdoyoulike: Have a playlist you'd like to share with hackers? Or a song request? :notes:
-- \#mentors: Mentors will hangout here as well as in our mentor app (to be announced soon)!
-- \#random: THE GIPHY channel (jk, say whatever there)
-- \#looking_for_jobs: Post your Linkedin so that recruiters can find you!
-- \#twitter: You can see here all our post on Twitter and all conversations we have! :bird:
-- \#food: Have any recommendations for snacks you'd like us to pick up? We'll also be making anouncements about food and snacks here. :fries:
-- \#hosting: Need a place to sleep? Do you live in Boulder and can host someone? Meet here to find a place to stay the day before or after HackCU. :bed:
+Slack is our primary method of communication during HackUPC. Anything you need to know during the event will be announced there, and all members of the staff team are easily found in it (look for the HackUPC logo in the profile picture - that’s us!).
+These are some important channels that we have:
+- **#announcements:** Everything about the event itself will be in this channel: food being served, intro talks starting, activities such as the nerf gun battles, and other important stuff.
+- **#general:** Talk about HackUPC and get to know fellow hackers.
+- **#issues:** Something happening in your room? Wi-Fi not working? If you see something wrong during the event, tell us through this channel and we’ll try to solve it as fast as possible.
+- **#mentors:** If you’re stuck in your project, ask for help here and a mentor will come help you.
+- **#explore_bcn:** If you’re coming a few days before, or staying after the event to visit Barcelona, this is the channel where you can ask the locals for suggestions about what to visit or where to eat.
+- **#hackathon_organizers:** Are you a hackathon organizer, or interested in starting one in your college? Meet people like you here!
+- **#hotel_hosting:** Get recommendations on places to stay in Barcelona. Maybe a local hacker can offer you a bed!
+- **#team_building:** You still don’t have a team? Have an idea? Share your thoughts here and meet people to form a team. 
+- **#random:** BIENE
 
 
 ### Preliminary Schedule :alarm_clock:
+**TO BE INCLUDED**
 
-{% include sections/schedule.md %}
+### Check in :wave:
 
-*What are these special events? We will reveal them to you at the opening ceremony. All we can say is that you won't find another opportunity to experience these at hackathons. Rest assured, you will definitely enjoy them!*
+Check-in will be open from 3:00 to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! We will give you, among other things, **a bracelet that you will have to wear at all times.**
+If you arrive later, look for an organizer with a dark gray t-shirt for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! We will also have baggage check-in so that you can leave your bags in a safe place.
 
+### Opening Ceremony :clapper:
 
-### Workshops :computer:
+The opening ceremony will be at the [Vertex](https://goo.gl/maps/vu1vfey5v8u) building at 7:00 PM. Doors will open at 6:30 PM.
+ 
+Keep in mind that the auditorium has limited seating. If you can't make it, we'll stream the ceremony in the hacking rooms, or you can watch it from your PC in [live.hackupc.com](http://live.hackupc.com/)
 
-{% include sections/workshops.md %}
+### Diets :fork_and_knife:
 
+When you check-in, you will be provided with a bracelet specifying your diet. Please check that the color of your bracelet is correct: 
 
+- White: No restriction
+- Green: Vegetarian/Vegan
+- Yellow: No pork
+- Red: Other restrictions
 
-### Forming Teams :smiley:
+### Forming teams :handshake:
 
-- Team sizes are limited to a maximum of **4** people each
-- Join the \#formingteams channel on our [Slack](http://slack.hackcu.org) to meet other hackers and potential team members before the event
-- We will also have a team formation event before the hacking begins!
+- Team sizes are limited to a maximum of 4 people each.
+- Join the #teambuilding channel on our Slack to meet other hackers and potential team members before the event.
+- We will also have a teambuilding event after dinner on Friday at 10.30PM!
 
+### Rules :raised_hand:
 
-### Need Help? Mentors! :raised_hand: 
+The #1 rule is “Be respectful”.
+Please read [HackUPC’s code of conduct](https://hackupc.com/code_conduct). We require all hackers to abide by these rules. 
 
+### Hacking :bulb:
 
-All of our mentors will be hanging out at [mentors.hackcu.org](https://mentors.hackcu.org). Register to ask for help. If you want to help out other hackers let us know. Check out this guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp).
+Hacking is only allowed from 9:00 PM on Friday to 9:00 AM on Sunday! You can start planning your project and setting up your work environment (libraries you may use, IDEs you may need…) before that, but no coding. 
 
+### Need help? Mentors! :sos:
 
-### Project Submissions :trophy:
+You may contact them via the #mentors channel, or via a web-app - you'll learn more about it in the opening ceremony! 
 
-Please submit your projects on our [Devpost](https://hackcu4.devpost.com/) by **Sunday 2/25/18 at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
+### PROJECT SUBMISSIONS :trophy:
+Please submit your projects on our Devpost by Sunday 13th 9:00 PM. Also remember to opt-in for any sponsor prizes that you are eligible for. Submit early, you can edit your submission later!
 
-Our judging will take place expo style. You'll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you're not finished. 
+Our judging will take place expo style. You’ll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
+
+### Travel Reimbursement :airplane:
+
+The processing of travel reimbursements takes some time - our schedule depends on our sponsors' schedule. We expect to have them sent out in around a month or two. Also, remember that you must submit a project before the deadline in order to get the reimbursement.
 
 -----
 
-## Connect with Us :camera:
+### SPONSOR CHALLENGES :woman_office_worker:
 
-Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). 
+Remember to opt in the challenges when submitting your project! (By submitting, you automatically opt to the HackUPC prize.) Check them during HackUPC in our live page: [live.hackupc.com](http://live.hackupc.com/)
+
+### WORKSHOPS AND TALKS :computer:
+On Friday night and Saturday morning, you will have the opportunity to attend several workshops given by our sponsors. Check the Live page to know the full list of topics! We will also announce them on Slack as they start.
+
+### BSC TOURS :office:
+Our university is also home to the Barcelona Supercomputing Centre. If you arrive early, you can join one of our three tours to see the MareNostrum, the 29th most powerful supercomputer in the world, installed in a unique location: the old Torre Girona chapel. We will post soon more details!
+
+----
+### Sleeping rooms :zzz: 
+We will have sleeping rooms available for those hackers who may need a rest at night. They will be open from 12:00 PM to 8:00 AM, and we will have air mattresses so that you don’t have to sleep on the floor. Although we provide sleeping masks and ear plugs, please be respectful of other people’s rest when you enter or exit the rooms. 
+You will find the sleeping rooms in both floors of building A3 and the second floor of building A4.
+
+### Showers :shower:
+
+Showers will be available on Saturday and Sunday from 9:15AM to 11:00AM. Please bring your towel and toiletry, as we will not provide it. The showers are shared among other people, if you feel uncomfortable you can bring a swimming suit. 
+
+Ubication: [Poliesportiu](https://g.page/EsportsUPC?share)
+
+### Hacking rooms :woman_technologist:
+Except for the cafeteria in A5105, all the rooms in the 1st and 2nd floors of the buildings A5 and A6 and the 1st floor of A4 are open for you to hack in there!
+ 
+Spain uses the two-pin continental plugs, types C and F and operates on a 230V supply voltage and 50Hz. Please bring an adapter if needed.
+
+----
+### Hardware :wrench:
+
+We will have some sweet hardware for you to hack on: 
+
+### Meals :shallow_pan_of_food:
+The food will be given out in front of the buildings A5 and A6. We will let you know through #announcements when it’s ready! We provide food taking into account every special diet that you may have. If you have a special diet and are unsure of the contents of each meal, don’t hesitate to ask the organisers and volunteers who will be next to the food. Remember to bring your water bottle if your drink of choice is water!
 
 -----
+### Links you need! :link:
 
-## Links you need!
+- Our website: [hackupc.com](https://hackupc.com/)
+- Hacker’s personal area: [my.hackupc.com](https://my.hackupc.com)
+- Live page: [live.hackupc.com](https://live.hackupc.com)
+- Slack: [hackupc2019.slack.com](https://hackupc2019.slack.com)
+- Devpost: [hackupc2019.devpost.com](https://hackupc2019.devpost.com)
+- Mentor app: 
 
-- Our website: [hackcu.org](https://hackcu.org)
-- Live page: *Coming soon*
-- Slack: [hackcu.slack.com](https://hackcu.slack.com)
-- Join Slack: [slack.hackcu.org](https://slack.hackcu.org)
-- Devpost: [hackcu4.devpost.com](https://hackcu4.devpost.com)
-- Mentor app: [mentors.hackcu.org](https://mentors.hackcu.org)
-- Check-in QR: [my.hackcu.org](https://my.hackcu.org)
+
+### I can't come to HackUPC, what should I do? 
+If, for any reason, you're unable to finally join us, we would appreciate that you cancel your attendance through MyHackUPC. 
+
+### Connect with Us :camera:
+Make sure to tag social media posts related to the event with #HackUPC. We’ll be featuring your posts and highlights from the event on our Instagram, Twitter, and Facebook.
 
 -----
 

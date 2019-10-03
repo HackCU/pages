@@ -1,0 +1,170 @@
+I"*-<p>Hi, hacker! We’re very excited to share this amazing weekend with you. This guide will help you get ready so that you don’t miss anything and can enjoy it to the fullest. Pay attention, as we have included all the important information that you need to know.</p>
+
+<p>=====</p>
+
+<h2 id="before-the-event">Before the event</h2>
+
+<h3 id="what-to-bring-briefcase">What to Bring :briefcase:</h3>
+
+<ul>
+  <li><strong>Valid ID</strong> - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you’d like to check out hardware.</li>
+  <li>Laptop, Phone, Chargers, and Other Devices - Don’t forget to bring your chargers and extra batteries for any device you’ll be using.</li>
+  <li>Headphones</li>
+  <li>Comfortable clothes.</li>
+  <li>Headphones</li>
+  <li>Towel and toiletry - We will have showers available and encourage you to use them!</li>
+  <li>Sleeping bag - If you’re sensitive to cold and plan to sleep, it may be a good option.</li>
+</ul>
+
+<p>We will give out a water bottle, sleeping mask and ear plugs, so you don’t need to bring them with you.</p>
+
+<h3 id="location-round_pushpin">Location :round_pushpin:</h3>
+
+<p>“Edifici A5 del Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona”</p>
+
+<p>HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona).</p>
+
+<h4 id="directions">Directions</h4>
+
+<p><strong>From the airport:</strong> Take the L9 line of the metro until the last stop, Zona Universitària. From there, it’s a 5-10min walk until the university. The fare for a single ticket from the airport is 4.60€.
+Another option is taking the train from the station in terminal T2 until Sants Estació, then taking the L3 line of the metro until Palau Reial. This combination will cost you 4.40€, but requires a transfer and takes more time.</p>
+
+<p><strong>From the city center:</strong> Take the L3 line of the metro until Palau Reial. From there, it’s a 5-10min walk until the university. The fare for a single ticket is 2.20€
+Other options, depending on where are you coming from, are the tram (lines T1, T2 and T3) or the bus (lines 7, 33, 63 among others). The fare for a single ticket in both cases is also 2.20€.</p>
+
+<p>=====</p>
+
+<h2 id="during-the-event">During the event</h2>
+
+<h3 id="slack-exclamation">Slack :exclamation:</h3>
+
+<p>Slack is our primary method of communication during HackUPC. Anything you need to know during the event will be announced there, and all members of the staff team are easily found in it (look for the HackUPC logo in the profile picture - that’s us!).
+These are some important channels that we have:</p>
+<ul>
+  <li><strong>#announcements:</strong> Everything about the event itself will be in this channel: food being served, intro talks starting, activities such as the nerf gun battles, and other important stuff.</li>
+  <li><strong>#general:</strong> Talk about HackUPC and get to know fellow hackers.</li>
+  <li><strong>#issues:</strong> Something happening in your room? Wi-Fi not working? If you see something wrong during the event, tell us through this channel and we’ll try to solve it as fast as possible.</li>
+  <li><strong>#mentors:</strong> If you’re stuck in your project, ask for help here and a mentor will come help you.</li>
+  <li><strong>#explore_bcn:</strong> If you’re coming a few days before, or staying after the event to visit Barcelona, this is the channel where you can ask the locals for suggestions about what to visit or where to eat.</li>
+  <li><strong>#hackathon_organizers:</strong> Are you a hackathon organizer, or interested in starting one in your college? Meet people like you here!</li>
+  <li><strong>#hotel_hosting:</strong> Get recommendations on places to stay in Barcelona. Maybe a local hacker can offer you a bed!</li>
+  <li><strong>#team_building:</strong> You still don’t have a team? Have an idea? Share your thoughts here and meet people to form a team.</li>
+  <li><strong>#random:</strong> BIENE</li>
+</ul>
+
+<h3 id="preliminary-schedule-alarm_clock">Preliminary Schedule :alarm_clock:</h3>
+<p><strong>TO BE INCLUDED</strong></p>
+
+<h3 id="check-in-wave">Check in :wave:</h3>
+
+<p>Check-in will be open from 3:00 to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! We will give you, among other things, <strong>a bracelet that you will have to wear at all times.</strong>
+If you arrive later, look for an organizer with a dark gray t-shirt for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! We will also have baggage check-in so that you can leave your bags in a safe place.</p>
+
+<h3 id="opening-ceremony">Opening Ceremony</h3>
+
+<p>The opening ceremony will be at the <a href="https://goo.gl/maps/vu1vfey5v8u">Vertex</a> building at 7:00 PM. Doors will open at 6:30 PM.</p>
+
+<p>Keep in mind that the auditorium has limited seating. If you can’t make it, we’ll stream the ceremony in the hacking rooms, or you can watch it from your PC in <a href="http://live.hackupc.com/">live.hackupc.com</a></p>
+
+<h3 id="diets">Diets</h3>
+
+<p>When you check-in, you will be provided with a bracelet specifying your diet. Please check that the color of your bracelet is correct:</p>
+
+<p>White: No restriction
+Green: Vegetarian/Vegan
+Yellow: No pork
+Red: Other restrictions</p>
+
+<hr />
+
+<h3 id="rules-point_left">Rules :point_left:</h3>
+
+<p><strong>The #1 rule is “Be respectful”</strong>.</p>
+
+<p>Please read <a href="https://my.hackcu.org/code_conduct/">HackCU’s code of conduct</a> and <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH’s code of conduct</a>. We require all hackers to abide by these rules.</p>
+
+<h3 id="hacking-bulb">Hacking :bulb:</h3>
+
+<p><strong>No coding is allowed before 12:00 PM on Saturday</strong>
+You can hack freely in SEEC building in the first floor rooms marked as “Hacker Space.” Some classrooms will be closed for HackCU side events.</p>
+
+<p>You must come with fresh code. Nothing but open source libraries or empty files to begin. Version control repos and honor system are the standards for measurement.</p>
+
+<h3 id="hardware-wrench">Hardware :wrench:</h3>
+
+<p>MLH will bring their awesome hardware lab, including Oculus Rift, Leap Motion, Amazon Echo, Muse headband and a lot more! Stay tuned to the live page for the complete list of hardware available for you.</p>
+
+<h3 id="workshops-computer">Workshops :computer:</h3>
+
+<p>We have curated various workshops &amp; events for you to explore.</p>
+
+<ul>
+  <li><strong>Workshop: Intro to Python:</strong> Find out what makes Python such an easy programming language for you to learn.</li>
+  <li><strong>Workshop: Vim - A Robust Text Editor:</strong> Learn to use the text editor everybody is raving about since the 90’s.</li>
+  <li><strong>Workshop: Intro to git and GitHub:</strong> Learn how to make your projects available for the entire world to see.</li>
+  <li><strong>Workshop: Make your own personal website:</strong> Put everything you learnt together and build your portfolio.</li>
+  <li><strong>Workshop: Amazon Web Services:</strong> Learn how to deploy services on the cloud with AWS.</li>
+  <li><strong>Workshop: Intro to iOS:</strong> Learn how to make your first iOS applications.
+    <ul>
+      <li>For this workshop you <strong>must</strong> download <a href="https://developer.apple.com/xcode/downloads/">XCode</a> beforehand. The download takes a long time, and you won’t be able to do the workshop without it.</li>
+    </ul>
+  </li>
+  <li><strong>Workshop: Your first web server:</strong> Learn how to make your first web server during the talk with Flask.</li>
+  <li><strong>Workshop: Writing a Resume/Creating a Personal Brand:</strong> Looking for jobs? Come and learn how to make your CV look better and increase your chances to getting hired.
+    <ul>
+      <li>Check out the <a href="https://docs.google.com/presentation/d/1QV7ckM3QmqCi93daY19VrcdvUG4EDSgjWwaJ0t1iD5w/edit?ts=5a848443#slide=id.p3">workshop slides</a> as a resource for building your personal brand!</li>
+    </ul>
+  </li>
+  <li><strong>Workshop: Rapid prototyping game</strong>: Missing ideas to hack on? Attend this rapid prototyping session to get the juices flowing.</li>
+  <li><strong>Workshop: Intro to VR/AR</strong>: Learn more about how VR/AR is shaping the world.
+    <ul>
+      <li>For this workshop you <strong>must</strong> download <a href="https://unity3d.com/get-unity/download">unity</a> beforehand. The download takes a long time, and you won’t be able to do the workshop without it.</li>
+    </ul>
+  </li>
+  <li><strong>Hackathon Organizer Meetup</strong> Meet other hackathon organizers. Get tips on how to bring a hackathon to your community.</li>
+</ul>
+
+<h3 id="forming-teams-smiley">Forming Teams :smiley:</h3>
+
+<ul>
+  <li>Team sizes are limited to a maximum of <strong>4</strong> people each</li>
+  <li>Join the #formingteams channel on our <a href="http://slack.hackcu.org">Slack</a> to meet other hackers and potential team members before the event</li>
+  <li>We will also have a team formation event before the hacking begins!</li>
+</ul>
+
+<h3 id="need-help-mentors-raised_hand">Need Help? Mentors! :raised_hand:</h3>
+
+<p>All of our mentors will be hanging out at <a href="https://mentors.hackcu.org">mentors.hackcu.org</a>. Register to ask for help. If you want to help out other hackers let us know. Check out this guide for the app: <a href="http://bit.ly/hackcu_mentorapp">bit.ly/hackcu_mentorapp</a>.</p>
+
+<h3 id="project-submissions-trophy">Project Submissions :trophy:</h3>
+
+<p>Please submit your projects on our <a href="https://hackcu4.devpost.com/">Devpost</a> by <strong>Sunday 2/25/18 at 12:00 PM</strong>.  Also remember to opt-in for any sponsor prizes that you are eligible for. <strong>Submit early, you can edit your submission!</strong></p>
+
+<p>Our judging will take place expo style. You’ll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you’re not finished.</p>
+
+<hr />
+
+<h2 id="connect-with-us-camera">Connect with Us :camera:</h2>
+
+<p>Make sure to tag social media posts related to the event with <strong>#HackCU</strong>. We’ll be featuring your posts and highlights from the event on our <a href="https://www.instagram.com/hackcu/?hl=en">Instagram</a>, <a href="https://twitter.com/hackcu">Twitter</a>, and <a href="https://www.facebook.com/HackCU/">Facebook</a>.</p>
+
+<hr />
+
+<h2 id="links-you-need">Links you need!</h2>
+
+<ul>
+  <li>Our website: <a href="https://hackcu.org">hackcu.org</a></li>
+  <li>Live page: <em>Coming soon</em></li>
+  <li>Slack: <a href="https://hackcu.slack.com">hackcu.slack.com</a></li>
+  <li>Join Slack: <a href="https://slack.hackcu.org">slack.hackcu.org</a></li>
+  <li>Devpost: <a href="https://hackcu4.devpost.com">hackcu4.devpost.com</a></li>
+  <li>Mentor app: <a href="https://mentors.hackcu.org">mentors.hackcu.org</a></li>
+  <li>Check-in QR: <a href="https://my.hackcu.org">my.hackcu.org</a></li>
+</ul>
+
+<hr />
+
+<h2 id="more-questions">More questions?</h2>
+
+<p>Check out our <a href="https://hackcu.org/#faq">FAQ</a> or email us at <a href="mailto:contact@hackcu.org">contact@hackcu.org</a>! You can also reach out to us on our <a href="https://twitter.com/hackcu">Twitter</a> or <a href="https://www.facebook.com/HackCU/">Facebook</a>.</p>
+:ET
