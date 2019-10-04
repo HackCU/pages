@@ -163,4 +163,4 @@ Make sure to tag social media posts related to the event with #HackUPC. We’ll 
 
 ## More questions?
 
-Check out our [FAQ](https://hackupc.com/) or email us at [contact@hackcu.org](mailto:contact@hackupc.com)! You can also reach out to us on our Twitter, Facebook or Instagram. 
+Check out our [FAQ](https://hackupc.com/) or email us at [contact@hackupc.com](mailto:contact@hackupc.com)! You can also reach out to us on our Twitter, Facebook or Instagram. 
