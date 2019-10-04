@@ -90,7 +90,7 @@ Some important times to be aware of:
 ### Check in :wave:
 
 Check-in will be open from 3:00 to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! We will give you, among other things, **a bracelet that you will have to wear at all times.**
-If you arrive later, look for an organizer with a dark gray t-shirt for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! We will also have baggage check-in so that you can leave your bags in a safe place.
+If you arrive later, go to info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! We will also have baggage check-in so that you can leave your bags in a safe place.
 
 ### Opening Ceremony :clapper:
 
@@ -129,7 +129,7 @@ You may contact them via the #mentors channel, or via a web-app - you'll learn m
 ### PROJECT SUBMISSIONS :trophy:
 Please submit your projects on our Devpost by Sunday 13th 9:00 PM. Also remember to opt-in for any sponsor prizes that you are eligible for. Submit early, you can edit your submission later!
 
-Our judging will take place expo style. You’ll present your project to the judges and have 2 minutes to demo what you learned and built. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
+Our judging will take place expo style. You’ll present your project to the judges and have 3 minutes to demo what you learned and built. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
 
 ### Travel Reimbursement :airplane:
 
@@ -168,8 +168,6 @@ Spain uses the two-pin continental plugs, types C and F and operates on a 230V s
 We will have some sweet hardware for you to hack on: 
 
 - 3D printing material
-- Current adapter
-- Video adapter
 - Anycubic i3 mega
 - Arduino kit
 - ASUS Zenwatch 2
@@ -201,7 +199,7 @@ The food will be given out in front of the buildings A5 and A6. We will let you 
 - Live page: [live.hackupc.com](https://live.hackupc.com)
 - Slack: [hackupc2019.slack.com](https://hackupc2019.slack.com)
 <!-- - Devpost: [hackupc2019.devpost.com](https://hackupc2019.devpost.com) -->
-<!-- - Mentor app:  -->
+- Mentor app: Web application coming soon 
 
 
 ### I can't come to HackUPC, what should I do? 
