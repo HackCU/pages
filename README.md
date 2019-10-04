@@ -4,7 +4,7 @@
 </p>
 <br>
 
-📄 Static pages with HackUPC documentation
+📄 Static guides with HackUPC documentation
 
 # Run project
 
@@ -12,7 +12,7 @@ Needs: Ruby
 
 ## Local 
 
-1. `git clone https://github.com/hackupc/pages && cd pages`
+1. `git clone https://github.com/hackupc/guides && cd guides`
 2. `gem install jekyll && gem install jemoji`
 3. `jekyll serve --watch`
 
