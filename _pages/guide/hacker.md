@@ -201,8 +201,8 @@ The food will be given out in front of the buildings A5 and A6. We will let you 
 - Hacker’s personal area: [my.hackupc.com](https://my.hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
 - Slack: [hackupc2019.slack.com](https://hackupc2019.slack.com)
-- Devpost: [hackupc2019.devpost.com](https://hackupc2019.devpost.com)
-- Mentor app: 
+<!-- - Devpost: [hackupc2019.devpost.com](https://hackupc2019.devpost.com) -->
+<!-- - Mentor app:  -->
 
 
 ### I can't come to HackUPC, what should I do? 
