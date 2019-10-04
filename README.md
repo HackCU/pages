@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="HackUPC 2019" src="http://guides.hackupc.com/assets/img/logo_white.png" width="100%"/>
+  <img alt="HackUPC 2019" src="http://guides.hackupc.com/assets/img/logo-hackupc.png" width="100%"/>
 </p>
 <br>
 
