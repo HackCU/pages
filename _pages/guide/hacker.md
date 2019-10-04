@@ -56,7 +56,7 @@ These are some important channels that we have:
 
 
 ### Preliminary Schedule :alarm_clock:
-**TO BE INCLUDED**
+{% include sections/schedule.md %}
 
 ### Check in :wave:
 
@@ -136,8 +136,8 @@ Spain uses the two-pin continental plugs, types C and F and operates on a 230V s
 
 ----
 ### Hardware :wrench:
+{% include sections/hardware.md %}
 
-We will have some sweet hardware for you to hack on: 
 
 ### Meals :shallow_pan_of_food:
 The food will be given out in front of the buildings A5 and A6. We will let you know through #announcements when it’s ready! We provide food taking into account every special diet that you may have. If you have a special diet and are unsure of the contents of each meal, don’t hesitate to ask the organisers and volunteers who will be next to the food. Remember to bring your water bottle if your drink of choice is water!
@@ -163,4 +163,4 @@ Make sure to tag social media posts related to the event with #HackUPC. We’ll 
 
 ## More questions?
 
-Check out our [FAQ](https://hackcu.org/#faq) or email us at [contact@hackcu.org](mailto:contact@hackcu.org)! You can also reach out to us on our [Twitter](https://twitter.com/hackcu) or [Facebook](https://www.facebook.com/HackCU/).
+Check out our [FAQ](https://hackupc.com/) or email us at [contact@hackcu.org](mailto:contact@hackupc.com)! You can also reach out to us on our Twitter, Facebook or Instagram. 

@@ -1,28 +1,32 @@
-**Check out our  live page (coming soon) for our most recently updated complete schedule.**
+**Check out our  live page (coming soon), as you’ll find the most recently updated schedule there.**
 
 
-Here are some important times to be aware of:
+Some important times to be aware of:
 
-**February 24th (Saturday)**
+**October 11th, Friday**
 
-- 8:00 AM - Check-in
+- 3:00 PM - Check-in
+- 7:00 PM - Opening Ceremony
+- 9:00 PM - Hacking starts!
+- 9:00 PM - Dinner
+
+
+**October 12th, Saturday**
+
+- 1:30 AM - Midnight snack
 - 8:00 AM - Breakfast
-- 10:00 AM - Opening Ceremonies
-- 11:00 AM - Team Formation & Career fair
-- 12:00 PM - Hacking Begins!
-- 12:00 PM - Lunch
-- 1:00 PM - Intro workshops
-- 4:00 PM - Special Event
-- 6:00 PM - Dinner
-- 11:00 PM - Late Night Dessert
+- 9:15 AM - Showers open
+- 1:00 PM - Lunch
+- 8:00 PM - Dinner
 
-**February 25th (Sunday)**
+**October 13th, Sunday**
 
-- 6:00 AM - Special Event
-- 7:30 AM - Breakfast
-- 12:00 PM - Lunch
-- 12:00 PM - Hacking Ends!
-- 12:30 PM - Project Expo! 
-- 3:00 PM - Closing Ceremonies
-
+- 1:00 AM - Midnight snack
+- 1:00 AM - Nerf gun battles
+- 8:00 AM - Breakfast
+- 9:00 AM - Hacking ends!
+- 9:15 AM - Showers open
+- 10:15 AM - Project expositions
+- 1:00 PM - Lunch
+- 2:30 PM - Closing ceremony
 

@@ -1,0 +1,23 @@
+We will have some sweet hardware for you to hack on: 
+
+- 3D printing material
+- Current adapter
+- Video adapter
+- Anycubic i3 mega
+- Arduino kit
+- ASUS Zenwatch 2
+- Google Home Mini
+- Grove starter kit plus
+- Grove starter kit plus gen2
+- Intel edison
+- Leap motion
+- Merge VR
+- Mi band 2
+- Mini-drone Parrot Rolling Spider
+- Muse headband
+- Myo arm
+- Oculus rift
+- Raspberry kit
+- Raspberry modules
+- Soldering kit
+- Amazon echo dot
