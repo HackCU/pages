@@ -1,6 +1,6 @@
 ---
 layout: base
-title: HackUPC Pages
+title: HackUPC Guides
 description: HackUPC statically generated documentation
 ---
 
