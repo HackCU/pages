@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Volunteer guide
-description: Volunteering at HackCU
+description: Volunteering at HackUPC
 ---
 
 
