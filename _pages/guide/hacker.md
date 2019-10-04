@@ -56,7 +56,7 @@ These are some important channels that we have:
 
 
 ### Preliminary Schedule :alarm_clock:
-{% include sections/schedule.md %}
+{% include_relative sections/schedule.md %}
 
 ### Check in :wave:
 
@@ -136,7 +136,7 @@ Spain uses the two-pin continental plugs, types C and F and operates on a 230V s
 
 ----
 ### Hardware :wrench:
-{% include sections/hardware.md %}
+{% include_relative sections/hardware.md %}
 
 
 ### Meals :shallow_pan_of_food:
