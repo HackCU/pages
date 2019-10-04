@@ -13,10 +13,9 @@ Hi, hacker! We’re very excited to share this amazing weekend with you. This gu
 ### What to Bring :briefcase:
 
 - **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware. 
-- Laptop, Phone, Chargers, and Other Devices - Don't forget to bring your chargers and extra batteries for any device you'll be using. 
+- Laptop, Phone, Chargers, and Other Devices - Don't forget to bring your chargers and extra batteries for any device you'll be using.
 - Headphones 
 - Comfortable clothes.
-- Headphones
 - Towel and toiletry - We will have showers available and encourage you to use them!
 - Sleeping bag - If you’re sensitive to cold and plan to sleep, it may be a good option.
 
@@ -33,7 +32,7 @@ HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Univ
 **From the airport:** Take the L9 line of the metro until the last stop, Zona Universitària. From there, it’s a 5-10min walk until the university. The fare for a single ticket from the airport is 4.60€.
 Another option is taking the train from the station in terminal T2 until Sants Estació, then taking the L3 line of the metro until Palau Reial. This combination will cost you 4.40€, but requires a transfer and takes more time.
 
-**From the city center:** Take the L3 line of the metro until Palau Reial. From there, it’s a 5-10min walk until the university. The fare for a single ticket is 2.20€
+**From the city center:** Take the L3 line of the metro until Palau Reial. From there, it’s a 5-10min walk until the university. The fare for a single ticket is 2.20€.
 Other options, depending on where are you coming from, are the tram (lines T1, T2 and T3) or the bus (lines 7, 33, 63 among others). The fare for a single ticket in both cases is also 2.20€.
 
 ----
