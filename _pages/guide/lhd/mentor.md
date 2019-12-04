@@ -20,10 +20,7 @@ During the event, we expect mentors to:
 - Act as helpers, moving from group to group and helping hackers with any questions or roadblocks they have. However, mentors can’t submit a project or contribute in a team’s project in such a way that a project is mainly his/her work. Their task is to guide and help teams to carry on their own projects.
 - Help hackers building their team at the team building event, which takes place at the beginning of the hackathon.
 - Hacking at Local Hack Day starts at 09.00 A.M on Saturday and ends at 09.00 P.M. on Saturday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at any time that is convenient to you. 
-- Check out help requests through our communication channels:
-	- Requests from the mentors app ([mentors.hackcu.org](https://mentors.hackcu.org/join/mentors)). 
-	- Guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp). 
-	- To become a mentor sign up using this url: [mentors.hackcu.org/join/mentors](mentors.hackcu.org/join/mentors)
+
 
 ## What benefits do I get as a Mentor?
 

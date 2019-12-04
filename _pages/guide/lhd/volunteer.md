@@ -10,7 +10,7 @@ First of all, in the name of the HackCU team, we’d like to thank you all for s
 ## When to be here
 
 
-All of you completed a [doodle](https://doodle.com/poll/c875uqdaqxqr3nv2c) with the information of your attendance as a volunteer during the weekend. We will start setting up the [venue for LHD](https://goo.gl/maps/QkJmArtxC3t) at 6PM on Friday 31st. We will meet on the Commons area.
+All of you completed a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScznavRkA7iqZCeUALDC18wk-KlDNfgSi9f3fklqRCwIfaa9w/viewform) with the information of your attendance as a volunteer during the weekend. We will meet up at the [venue for LHD](https://goo.gl/maps/QkJmArtxC3t) at 7AM on Saturday the 7th. We will meet on the Commons area in the Idea Forge.
 
 ----
 
@@ -36,7 +36,7 @@ During Local Hack Day, Gerard and Mackenzie will be your main point of contact. 
 
 ### Hackers
 
-Check-in volunteers are the first organisers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for Phase :-). You will be seating downstairs next to the door (called check-in area from now on).
+Check-in volunteers are the first organizers people meet at a hackathon! Make sure to be very welcoming as this sets up the mood for Phase :-). You will be seating downstairs next to the door (called check-in area from now on).
 
 The check-in algorithm will be the following:
 - Go to [MyHackCU](https://my.hackcu.org)
