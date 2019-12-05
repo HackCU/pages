@@ -58,7 +58,7 @@ Local Hack Day is meant as a time for hackers to work on whatever projects they 
 
 ### Slack :exclamation:
 
-- Join the #lhd2019 channel on our own [HackCU Slack](https://hackcu.slack.com) to meet other hackers and potential team members before the event, and join the #lhd-build-2019-hackcu channel on the [MLH Local Hack Day Slack](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC). You can join our slack [here](https://join.slack.com/t/hackcu/shared_invite/enQtODYwMTcwNjkyOTgwLTczNzFkZWFhZjMwYTUyNGM5Y2Q1ZWJlMTIzMGRlYWRjZjY2ZjE0MWQwMjUzZjZkMmI4ZjcwZWRmOGVkODdhNTA), and the MLH slack [here](lhd.mlh.io/slack).
+- Join the #lhd2019 channel on our own [HackCU Slack](https://hackcu.slack.com) to meet other hackers and potential team members before the event, and join the #lhd-build-2019-hackcu channel on the [MLH Local Hack Day Slack](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC). You can join our slack [here](http://bit.ly/34Pf49S), and the MLH slack [here](lhd.mlh.io/slack).
 
 
 ### Preliminary Schedule :alarm_clock:
