@@ -92,7 +92,7 @@ Please submit your projects on the LHD [Devpost](https://build.devpost.com/) by 
 
 ## Connect with Us :camera:
 
-Make sure to tag social media posts related to the event with **\#LHDBoulder**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). 
+Make sure to tag social media posts related to the event with **\#LHDBoulder**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/)! 
 
 -----
 
