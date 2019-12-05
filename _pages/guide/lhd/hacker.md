@@ -58,7 +58,7 @@ Local Hack Day is meant as a time for hackers to work on whatever projects they 
 
 ### Slack :exclamation:
 
-You should have received an invite to join [Local Hack Day Slack](https://localhackday.slack.com). Once there, join [#lhd-boulder](https://localhackday.slack.com/messages/CE5PG4TS8/) channel to talk with all the local hackers attending our Boulder event.
+You can join our own slack via [here](https://slack.hackcu.org) [Local Hack Day Slack](https://localhackday.slack.com). Once there, join [#lhd-boulder](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC) channel to talk with all the local hackers attending our Boulder event.
 
 
 ### Preliminary Schedule :alarm_clock:
@@ -70,24 +70,22 @@ You should have received an invite to join [Local Hack Day Slack](https://localh
 
 {% include sections/workshops.md %}
 
-To be updated soon
 
 ### Forming Teams :smiley:
 
 - Team sizes are limited to a maximum of **4** people each
-- Join the [#lhd-boulder](https://localhackday.slack.com/messages/CE5PG4TS8/) channel on the [Local Hack Day Slack](https://localhackday.slack.com)to meet other hackers and potential team members before the event
+- Join the #lhd2019 channel on our own [HackCU Slack](https://hackcu.slack.com) to meet other hackers and potential team members before the event, and join the #lhd-build-2019-hackcu channel on the [MLH Local Hack Day Slack](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC)
 - We will also have a team formation event before the hacking begins!
 
 
 ### Need Help? Mentors! :raised_hand: 
 
-
-All of our mentors will be hanging out at [mentors.hackcu.org](https://mentors.hackcu.org). Register to ask for help. If you want to help out other hackers let us know. Check out this guide for the app: [bit.ly/hackcu_mentorapp](http://bit.ly/hackcu_mentorapp).
+All of our mentors will be hanging out through the event. If you want to help out other hackers let us know.
 
 
 ### Project Submissions :trophy:
 
-Please submit your projects on the LHD [Devpost](https://build.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover) by **Saturday 7th 09:00 PM**.  **Submit early, you can edit your submission!**
+Please submit your projects on the LHD [Devpost](https://build.devpost.com/) by **Saturday 7th 09:00 PM**.  **Submit early, you can edit your submission!**
 
 **Remember! Local Hack Day is NOT a competition and we will not be judging accordingly.** These submissions are purely for fun! Enjoy hacking!
 
@@ -103,8 +101,8 @@ Make sure to tag social media posts related to the event with **\#LHDBoulder**. 
 
 - Our website: [local.hackcu.org](https://local.hackcu.org)
 - Live page: [live.hackcu.org](https://live.hackcu.org)
-- Slack: [localhackday.slack.com](https://localhackday.slack.com)
-- Devpost: [Local Hack Day Build](https://build.devpost.com/?ref_content=featured&ref_feature=challenge&ref_medium=discover)
+- Slack: [slack.hackcu.org](https://slack.hackcu.org) for our homegrown slack and [localhackday.slack.com](https://localhackday.slack.com) for the official MLH slack
+- Devpost: [Local Hack Day Build](https://build.devpost.com/)
 
 -----
 
