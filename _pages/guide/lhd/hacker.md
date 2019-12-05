@@ -84,7 +84,7 @@ All of our mentors will be hanging out through the event. If you want to help ou
 
 ### Project Submissions :trophy:
 
-Please submit your projects on the LHD [Devpost](https://build.devpost.com/) by **Saturday 7th 09:00 PM**.  **Submit early, you can edit your submission!**
+Please submit your projects on the LHD [Devpost](https://build.devpost.com/) by **Saturday  the 7th at 09:00 PM**.  **Submit early, you can edit your submission!**
 
 **Remember! Local Hack Day is NOT a competition and we will not be judging accordingly.** These submissions are purely for fun! Enjoy hacking!
 
