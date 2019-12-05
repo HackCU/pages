@@ -58,7 +58,7 @@ Local Hack Day is meant as a time for hackers to work on whatever projects they 
 
 ### Slack :exclamation:
 
-You can join our own slack via [here](https://slack.hackcu.org) [Local Hack Day Slack](https://localhackday.slack.com). Once there, join [#lhd-boulder](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC) channel to talk with all the local hackers attending our Boulder event.
+- Join the #lhd2019 channel on our own [HackCU Slack](https://hackcu.slack.com) to meet other hackers and potential team members before the event, and join the #lhd-build-2019-hackcu channel on the [MLH Local Hack Day Slack](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC). You can join our slack [here](https://join.slack.com/t/hackcu/shared_invite/enQtODYwMTcwNjkyOTgwLTczNzFkZWFhZjMwYTUyNGM5Y2Q1ZWJlMTIzMGRlYWRjZjY2ZjE0MWQwMjUzZjZkMmI4ZjcwZWRmOGVkODdhNTA), and the MLH slack [here](lhd.mlh.io/slack).
 
 
 ### Preliminary Schedule :alarm_clock:
@@ -74,7 +74,6 @@ You can join our own slack via [here](https://slack.hackcu.org) [Local Hack Day 
 ### Forming Teams :smiley:
 
 - Team sizes are limited to a maximum of **4** people each
-- Join the #lhd2019 channel on our own [HackCU Slack](https://hackcu.slack.com) to meet other hackers and potential team members before the event, and join the #lhd-build-2019-hackcu channel on the [MLH Local Hack Day Slack](https://app.slack.com/client/TE6D2D8NS/CRCEK2PRC)
 - We will also have a team formation event before the hacking begins!
 
 
@@ -101,7 +100,7 @@ Make sure to tag social media posts related to the event with **\#LHDBoulder**. 
 
 - Our website: [local.hackcu.org](https://local.hackcu.org)
 - Live page: [live.hackcu.org](https://live.hackcu.org)
-- Slack: [slack.hackcu.org](https://slack.hackcu.org) for our homegrown slack and [localhackday.slack.com](https://localhackday.slack.com) for the official MLH slack
+- Slack: [hackcu.slack.com](https://hackcu.slack.com) for our homegrown slack and [localhackday.slack.com](https://localhackday.slack.com) for the official MLH slack
 - Devpost: [Local Hack Day Build](https://build.devpost.com/)
 
 -----
