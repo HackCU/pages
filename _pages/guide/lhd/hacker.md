@@ -18,7 +18,6 @@ We're so excited to have you at Local Hack Day! We've put together this comprehe
 - Comfortable clothes. 
 - Notebook/ Paper & Pen 
 
-LHD is going to take place in the [Idea Forge](https://goo.gl/maps/Ly4NbHA28R82). 
 
 ### Directions :round_pushpin:
 
