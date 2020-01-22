@@ -6,19 +6,23 @@ description: How to travel to HackCU.
 
 ## Location and Parking
 
-The main event will be located in the SEEC building at:
+The main event will be located in the JSCBB building at:
 
->4001 Discovery Dr
-> 
->Boulder, CO 80303 
+>3415 Colorado Avenue
+>
+>Boulder, CO 80303
 
-Parking will be available in the parking lot outside of SEEC on Discovery Drive. Be sure to follow directions on the signs so you don't park in permit only parking.
+Parking will be available all weekend in lot #543 (on the northwest corner of the building). Be sure to follow directions on the signs so you don't park in permit only parking.
+
+# Overnight policy
+
+Unfortunately, due to university and budget restrictions, we will be **unable to provide a place for you to stay overnight**. You must either remain awake through the night in the venue (campus policy) or find your own accomodations.
 
 ## Flying in
 
-You should book flights into Denver International Airport (DEN). From there you can take the AB line that runs from the airport directly to campus. The bus schedule and fares can be found [here](http://www3.rtd-denver.com/schedules/getSchedule.action?routeId=AB). You can buy tickets at the airport, paying directly to the driver with cash, or through the [RTD Mobile Ticket app](http://www.rtd-denver.com/mobileticket.shtml). Also, make sure to bring $9.00 cash for the bus ride back to the airport as there are no ticket machines where you can pay with card near our campus. Keep your bus receipts so we can reimburse you later if you were approved for reimbursement.
+You should book flights into Denver International Airport (DEN). From there you can take the AB line that runs from the airport directly to campus. The bus schedule and fares can be found [here](https://www.rtd-denver.com/app/route/AB1-AB2/schedule?direction=westbound). You can buy tickets at the airport, paying directly to the driver with cash, or through the [RTD Mobile Ticket app](http://www.rtd-denver.com/mobileticket.shtml). Also, make sure to bring $9.00 cash for the bus ride back to the airport as there are no ticket machines where you can pay with card near our campus. Keep your bus receipts so we can reimburse you later if you were approved for reimbursement.
 
-From the airport, take the [AB line](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2431&routeId=AB&routeType=9&&direction=W-Bound&serviceType=1#day) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder. 
+From the airport, take the [AB line](https://www.rtd-denver.com/app/route/AB1-AB2/schedule?direction=westbound) (Westbound) Downtown Boulder Station line and get off at the **Broadway & Euclid** stop near the University of Colorado Boulder. 
 
 ## International Travel
 
@@ -32,7 +36,7 @@ Whether you're flying in or taking the public bus, you will have **5 days to RSV
 
 ## Dates and time
 
-You should anticipate arriving by or before **8 AM Saturday, February 23rd** and leaving after **5 PM on Sunday, February 24th**.
+You should anticipate arriving by or before **8 AM Saturday, February 22nd** and leaving after **5 PM on Sunday, February 23rd**.
 
 ---
 
