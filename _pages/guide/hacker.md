@@ -14,7 +14,7 @@ We are excited to welcome you to HackCU VI this year! This event would not be co
 February 22nd and February 23rd, 2020
 
 ### Time 
-February 22nd: 8:00 AM - February 23rd: 4 p.m.
+February 22nd: 8:00 AM - February 23rd: 4:00 PM.
 
 ### Where
  Jennie Smoly Caruthers Biotech Building
