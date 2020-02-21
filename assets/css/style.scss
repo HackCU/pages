@@ -113,6 +113,16 @@ body {
       
     }
 
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      
+    }
+    a:hover {
+      color: grey;
+    }
+
     img:not(.emoji) {
       display: block;
       margin: 0 auto;
