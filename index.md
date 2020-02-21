@@ -40,3 +40,8 @@ represent our company at our event.
 
 Check out the volunteer guide for HackCU VI, and 
 assist our organizers throught the hackathon.
+
+# [Judging Guide](guide/judge)
+
+Check out the judging guide for HackCU VI, and 
+judge amongst our several tracks.
