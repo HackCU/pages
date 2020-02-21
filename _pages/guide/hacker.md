@@ -6,7 +6,7 @@ description: The extensive guide to make your experience at HackCU amazing!
 
 Hello, Hacker!
 
-We are excited to welcome you to HackCU VI this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this.
+We are excited to welcome you to HackCU VI this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy.
 
 ----
 
