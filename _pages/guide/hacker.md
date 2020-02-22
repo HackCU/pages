@@ -17,9 +17,9 @@ February 22nd and February 23rd, 2020
 February 22nd: 8:00 AM - February 23rd: 4:00 PM.
 
 ### Where
- Jennie Smoly Caruthers Biotech Building
-        3415 Colorado Ave
-Boulder, CO 80303
+>Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave
+
+>Boulder, CO 80303
 
 ### Parking
 Check out our parking map below.

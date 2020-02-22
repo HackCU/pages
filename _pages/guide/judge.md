@@ -17,20 +17,14 @@ February 23rd, 2020
 February 23rd: 11:00AM - 2:00PM.
 Note - Hacking ends at 12:00 PM on Sunday, and judging will begin at 12:30 PM.
 
-
-### Check-in:
-Check-in will be at the <b>South entrance closest to Colorado Ave</b>. 
-Please feel free to get a badge and lanyard, and either Priyanka or Mackenzie will meet you here.
-
-
-## When to arrive
-
+### Where
 >Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave
 
 >Boulder, CO 80303
 
-
-
+### Check-in:
+Check-in will be at the <b>South entrance closest to Colorado Ave</b>. 
+Please feel free to get a badge and lanyard, and either Priyanka or Mackenzie will meet you here.
 
 Judging will take place from 12:30 PM to 2:30 PM. It will be following a science fair project presentation style. More details on the format will be shared during the morning briefing.
 
