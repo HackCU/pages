@@ -6,15 +6,15 @@ description: The extensive guide to make your experience at HackCU amazing!
 
 Hello, Hacker!
 
-We are excited to welcome you to HackCU VI this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities, we will only be admitting the <b>FIRST</b> 420 hackers into the space.
+We are excited to welcome you to HackCU 8 this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities in light of COVID, we will only be admitting the <b>FIRST</b> 250 hackers into the space.
 
 ----
 
 ### Date
-February 22nd and February 23rd, 2020
+March 5th and March 6th, 2022
 
 ### Time 
-February 22nd: 8:00 AM - February 23rd: 4:00 PM.
+March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 ### Where
 >Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave
@@ -41,16 +41,9 @@ The JSCBB lot #543 is located on the northwest corner of the building.  The lot 
 ![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
 
 
-## Lyft Code
-
-Join Lyft and use the code below:
-
-<b>[Click Me!](https://www.lyft.com/i/HACKCUVI2020)</b>
-
-Code: <b>HACKCUVI2020</b>
 
 ### Check-in :wave:
-Check-in will begin at 8:00AM at the South entrance of the JSCBB. <b> You 
+Check-in will begin at 8:00AM on Saturday March 5th at the South entrance of the JSCBB. <b> You 
 must get a badge and lanyard to enter the event</b>. This badge must stay
 on for the entire duration of the event. In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at <b>[my.hackcu.org](https://my.hackcu.org)</b>.
 
@@ -67,7 +60,7 @@ auditoriums as well.
 Sunday at 12:00PM.</b>
 
 HackCU is meant as a time for hackers to work on whatever projects they like
-in a low stree, fun, and collaborative environment. This is a great time for
+in a low stress, fun, and collaborative environment. This is a great time for
 hackers to work on projects from previous events. It's a change to learn a 
 new technology.
 
@@ -78,7 +71,7 @@ We will be using CU's WiFi. Use `eduroam` or `UCB Wireless` to leave
 ### Team Size
 Teams can be a <b>maximum of 4 people</b>. You can look for teammates in the 
 `#general` channel in slack. We will also be hosting a team formation activity
-at 12:00PM on Saturday. Join the `#formingteams` channel on our [Slack](http://hackcu.slack.com) to meet other hackers and potential team members before the event
+at 9:00AM on Saturday prior to the opening ceremony. Join the `#formingteams` channel on our [Slack](http://hackcu.slack.com) to meet other hackers and potential team members before the event
 
 ### Submissions
 
@@ -147,7 +140,7 @@ Need help? Go to the `#mentors` channel on slack!
 
 ### Project Submissions :trophy:
 
-Please submit your projects on our [Devpost](https://hackcu-vi.devpost.com/) by **Sunday the 23rd at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
+Please submit your projects on our [Devpost](https://hackcu-vi.devpost.com/) by **March 6th at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
 
 Our judging will take place expo style. You should still demo your project even if you're not finished. 
 

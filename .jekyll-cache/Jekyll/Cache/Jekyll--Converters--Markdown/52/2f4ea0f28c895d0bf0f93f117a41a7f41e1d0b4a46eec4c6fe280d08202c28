@@ -1,0 +1,14 @@
+I"œ
+<ul>
+  <li><a href="#challenge">Challenge</a></li>
+  <li><a href="#detailed-powerpoint">Detailed powerpoint</a></li>
+  <li><a href="#prize">Prize</a>
+    <ul>
+      <li><a href="#first-place">First Place</a></li>
+      <li><a href="#second-place">Second Place</a></li>
+      <li><a href="#third-place">Third Place</a></li>
+      <li><a href="#all-participants">All Participants</a></li>
+    </ul>
+  </li>
+</ul>
+:EF

@@ -1,0 +1,33 @@
+I"Ÿ
+<h3 id="what-will-you-learn">What will you learn?</h3>
+<ol>
+  <li><strong>How to monitor and generate network traffic over the Internet with Wireshark:</strong> Wireshark is a powerful and free tool that you can use on your own devices and networks to monitor your personal security.</li>
+  <li><strong>How to apply these lessons to vehicle network activity with ICSim and cantools in order to reverse engineer signals to hack into, or penetration test, a car:</strong>Vehicles are increasingly becoming connected IoT devices, and any vehicle with an ECU is susceptible to hackers. Modern vehicles contain over 100 million lines of code and potential bugs or attack vectors. We will demo some simple car penetration testing tasks in the below challenges.</li>
+</ol>
+
+<h3 id="challenges">Challenges</h3>
+<p>The vehicle hacking component of the workshop will offer three tasks for participants to take on; solutions will be provided and demoed at the end:</p>
+<ol>
+  <li>Send a CAN packet to unlock exactly 3 doors simultaneously.</li>
+  <li>Blink the turn signals simultaneously, simulating hazard lights.</li>
+  <li>Keep the speedometer of the vehicle at 120 MPH regardless of true vehicle speed.</li>
+</ol>
+
+<h3 id="what-will-you-get-out-of-this-workshop">What will you get out of this workshop?</h3>
+<p>Besides gaining a basic understanding of using tools to monitor, generate, and reverse engineer network activity at home and in a vehicle, participants will also leave with SWAG. The first 40 people to join the workshop will receive a Neutral Vehicle t-shirt (size and availability 
+depending), and we have 5 books authored by the same person who programmed the car simulation software and tools to be raffled off during the workshop.</p>
+
+<p><img src="/assets/img/res/tcpswag.png" alt="Worshop swag you can get" /></p>
+
+<h3 id="what-do-you-need-to-download-to-prepare">What do you need to download to prepare?</h3>
+<p>We will provide a pre-loaded virtual machine to download that comes with all of the tools needed. A ReadMe file will also be provided for those that wish to download the necessary tools on their own. The tools may not work properly on a Mac or Windows OS, so a VM may be necessary in order to participate in the workshop. All components of the workshop will be demoed live, so downloading the software and following along on your own devices is optional.</p>
+
+<h3 id="workshop-sponsors-and-presenters-from">Workshop Sponsors and Presenters from:</h3>
+
+<ul>
+  <li>Technology, Cybersecurity and Policy (TCP) Program</li>
+  <li>CU Cybersecurity Club</li>
+  <li>CU Collegiate Cyber Defense Competition (CCDC) Team</li>
+  <li>Neutral Vehicle â€“ a CU hosted international research project</li>
+</ul>
+:ET

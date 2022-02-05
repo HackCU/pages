@@ -1,0 +1,196 @@
+I"L*<p>Hello, Hacker!</p>
+
+<p>We are excited to welcome you to HackCU 8 this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities in light of COVID, we will only be admitting the <b>FIRST</b> 250 hackers into the space.</p>
+
+<hr />
+
+<h3 id="date">Date</h3>
+<p>March 5th and March 6th, 2022</p>
+
+<h3 id="time">Time</h3>
+<p>March 5th: 8:00 AM - March 6th: 4:00 PM.</p>
+
+<h3 id="where">Where</h3>
+<blockquote>
+  <p>Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave</p>
+</blockquote>
+
+<blockquote>
+  <p>Boulder, CO 80303</p>
+</blockquote>
+
+<h3 id="parking">Parking</h3>
+<p>Check out our parking map below.</p>
+
+<h3 id="check-in">Check-in</h3>
+<p>Check-in will be at the South entrance closest to Colorado Ave. You must get a lanyard or badge in order to check-in.</p>
+
+<h2 id="before-the-event">Before the Event</h2>
+
+<h3 id="what-should-i-bring-briefcase">What should I Bring :briefcase:</h3>
+
+<p>Laptop, chargers, a <b>valid ID</b>, and of course yourself!</p>
+
+<h3 id="parking-car">Parking :car:</h3>
+
+<p>The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive.</p>
+
+<p><img src="/assets/img/res/jscbb_parking.png" alt="JSCBB Parking" title="JSCBB" /></p>
+
+<h3 id="check-in-wave">Check-in :wave:</h3>
+<p>Check-in will begin at 8:00AM on Saturday March 5th at the South entrance of the JSCBB. <b> You 
+must get a badge and lanyard to enter the event</b>. This badge must stay
+on for the entire duration of the event. In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at <b><a href="https://my.hackcu.org">my.hackcu.org</a></b>.</p>
+
+<h2 id="during-the-event">During the Event</h2>
+
+<h3 id="opening-ceremony">Opening ceremony</h3>
+<p>Opening ceremonies will begin at 11:00AM in the JSCBB in Auditorium A115.
+Wil will also be live streaming the opening ceremonies to the other 
+auditoriums as well.</p>
+
+<h3 id="hacking-bulb">Hacking :bulb:</h3>
+<p><b>Hacking will only be available from Saturday at 12:00PM to
+Sunday at 12:00PM.</b></p>
+
+<p>HackCU is meant as a time for hackers to work on whatever projects they like
+in a low stress, fun, and collaborative environment. This is a great time for
+hackers to work on projects from previous events. It’s a change to learn a 
+new technology.</p>
+
+<h3 id="wifi">Wifi</h3>
+<p>We will be using CU’s WiFi. Use <code class="language-plaintext highlighter-rouge">eduroam</code> or <code class="language-plaintext highlighter-rouge">UCB Wireless</code> to leave
+<code class="language-plaintext highlighter-rouge">UCB Guest</code> for people that don’t have a CU login.</p>
+
+<h3 id="team-size">Team Size</h3>
+<p>Teams can be a <b>maximum of 4 people</b>. You can look for teammates in the 
+<code class="language-plaintext highlighter-rouge">#general</code> channel in slack. We will also be hosting a team formation activity
+at 9:00AM on Saturday prior to the opening ceremony. Join the <code class="language-plaintext highlighter-rouge">#formingteams</code> channel on our <a href="http://hackcu.slack.com">Slack</a> to meet other hackers and potential team members before the event</p>
+
+<h3 id="submissions">Submissions</h3>
+
+<p>Keep in mind that hacking ends on <b>Sunday at 12:00PM</b>. You can submit
+your projects on Devpost before then.</p>
+
+<p><b>Submit your projects here:</b> Click <b><a href="https://hackcu-vi.devpost.com/">here</a></b> for 
+the HackCU VI Devpost.
+Make sure you select University of Colorado Boulder as the event you are participating in.</p>
+
+<h3 id="slack-exclamation">Slack :exclamation:</h3>
+<p>Join the HackCU slack <b><a href="https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU">here</a></b>. Once signed up, join the <code class="language-plaintext highlighter-rouge">#general</code> channel. We will be posting all
+announcements and side events in the <code class="language-plaintext highlighter-rouge">#general</code> channel. If you are not invited, please let
+us know when you arrive at the venue! Here are the channels:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">#announcements</code>: We will be using this to announce our intro talks, food being served and stuff about HackCU. :loudspeaker:</li>
+  <li><code class="language-plaintext highlighter-rouge">#general</code>: Talk about HackCU and get to know each other!</li>
+  <li><code class="language-plaintext highlighter-rouge">#formingteams</code>: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:</li>
+  <li><code class="language-plaintext highlighter-rouge">#whatmusicdoyoulike</code>: Have a playlist you’d like to share with hackers? Or a song request? :notes:</li>
+  <li><code class="language-plaintext highlighter-rouge">#mentors</code>: Mentors will hangout here!</li>
+  <li><code class="language-plaintext highlighter-rouge">#random</code>: THE GIPHY channel (jk, say whatever there) <code class="language-plaintext highlighter-rouge">if (message.randomness &gt; 0.5): message.post(#random)</code></li>
+  <li><code class="language-plaintext highlighter-rouge">#looking_for_jobs</code>: Post your Linkedin so that recruiters can find you!</li>
+  <li><code class="language-plaintext highlighter-rouge">#twitter</code>: You can see here all our post on Twitter and all conversations we have! :bird:</li>
+  <li><code class="language-plaintext highlighter-rouge">#food</code>: Have any recommendations for snacks you’d like us to pick up? We’ll also be making anouncements about food and snacks here. :fries:</li>
+</ul>
+
+<h3 id="mentors">Mentors</h3>
+<p>We will have mentors around to help you at on your projects! Mentors will be
+hanging out on Slack <code class="language-plaintext highlighter-rouge">#mentors</code> channel, at their mentor table and around the
+venue where you are more than welcome to ask any questins about your project
+and they will be abel to help you find a solution.</p>
+
+<hr />
+
+<h3 id="rules-point_left">Rules :point_left:</h3>
+
+<p><strong>The #1 rule is “Be respectful”</strong>.</p>
+
+<p>Please read <a href="https://pages.hackcu.org/code_conduct/">HackCU’s code of conduct</a> and <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH’s code of conduct</a>. We require all hackers to abide by these rules. Also read the rules of the competition in our <a href="https://live.hackcu.org/rules/">live page</a>.</p>
+
+<h3 id="sponsor-challenges-and-tracks">Sponsor challenges and tracks</h3>
+<p>Some of our sponsors have already uploaded their challenges. Check them out now in our live page: <a href="https://live.hackcu.org/prizes/">live.hackcu.org/prizes/</a>.</p>
+
+<h3 id="hardware-wrench">Hardware :wrench:</h3>
+
+<p>We will some sweet hardware for you to hack on!</p>
+
+<h3 id="preliminary-schedule-alarm_clock">Preliminary Schedule :alarm_clock:</h3>
+
+<p>Check out our  <b><a href="https://live.hackcu.org/schedule/">live page</a></b> for our most recently updated complete schedule.</p>
+
+<p>Here are some important times to be aware of:</p>
+
+<p><strong>March 5th (Saturday)</strong></p>
+
+<ul>
+  <li>8:00 AM - Arrival and Check-in</li>
+  <li>8:00 AM - Breakfast</li>
+  <li>9:00 AM - Team Formation</li>
+  <li>11:00 AM - Opening Ceremonies</li>
+  <li>12:00 PM - Lunch 1</li>
+  <li>12:00 PM - Hacking Begins!</li>
+  <li>1:00 PM - Introduction to Git</li>
+  <li>3:00 PM - Introduction to Project Managment</li>
+  <li>4:00 PM - Bioinformatics and Genomics</li>
+  <li>5:00 PM - Fask Masks and Yoga</li>
+  <li>6:00 PM - Dinner 1</li>
+  <li>7:00 PM - Harry Potter Trivia</li>
+  <li>8:00 PM - Movie</li>
+  <li>11:00 PM - Late Night Dessert</li>
+</ul>
+
+<p><strong>March 6th (Sunday)</strong></p>
+
+<ul>
+  <li>8:00 AM - Breakfast 2</li>
+  <li>12:00 PM - Hacking Ends! Projects Due!</li>
+  <li>12:00 PM - Lunch 2</li>
+  <li>12:30 PM - Project Expo and Judging!</li>
+  <li>3:00 PM - Closing Ceremonies!</li>
+</ul>
+
+<h3 id="schedule">Schedule</h3>
+<p>You can find an updated schedule here:
+<b><a href="live.hackcu.org">live.hackcu.org</a></b></p>
+
+<h3 id="workshops-computer">Workshops :computer:</h3>
+
+<p>We have curated various workshops &amp; events for you to explore.</p>
+
+<p>Check out a list of workshops and side events update in <strong>our <a href="https://live.hackcu.org/events/">live page</a></strong>.</p>
+
+<h3 id="need-help-mentors-raised_hand">Need Help? Mentors! :raised_hand:</h3>
+
+<p>Need help? Go to the <code class="language-plaintext highlighter-rouge">#mentors</code> channel on slack!</p>
+
+<h3 id="project-submissions-trophy">Project Submissions :trophy:</h3>
+
+<p>Please submit your projects on our <a href="https://hackcu-vi.devpost.com/">Devpost</a> by <strong>March 6th at 12:00 PM</strong>.  Also remember to opt-in for any sponsor prizes that you are eligible for. <strong>Submit early, you can edit your submission!</strong></p>
+
+<p>Our judging will take place expo style. You should still demo your project even if you’re not finished.</p>
+
+<hr />
+
+<h2 id="connect-with-us-camera">Connect with Us :camera:</h2>
+
+<p>Make sure to tag social media posts related to the event with <strong>#HackCU</strong>. We’ll be featuring your posts and highlights from the event on our <a href="https://www.instagram.com/hackcu/?hl=en">Instagram</a>, <a href="https://thttps://hackcu-vi.devpost.com/witter.com/hackcu">Twitter</a>, and <a href="https://www.facebook.com/HackCU/">Facebook</a>.</p>
+
+<hr />
+
+<h2 id="links-you-need">Links you need!</h2>
+
+<ul>
+  <li>Our website: <a href="https://hackcu.org">hackcu.org</a></li>
+  <li>Live page: <a href="https://live.hackcu.org">live.hackcu.org</a></li>
+  <li>Slack: <a href="https://hackcu.slack.com">hackcu.slack.com</a></li>
+  <li>Devpost: <a href="https://hackcu-vi.devpost.com/">hackcu-vi.devpost.com</a></li>
+  <li>Check-in QR: <a href="https://my.hackcu.org">my.hackcu.org</a></li>
+</ul>
+
+<hr />
+
+<h2 id="more-questions">More questions?</h2>
+
+<p>Check out our <a href="https://hackcu.org/#faq">FAQ</a> or email us at <a href="mailto:contact@hackcu.org">contact@hackcu.org</a>! You can also reach out to us on our <a href="https://twitter.com/hackcu">Twitter</a>, <a href="https://www.facebook.com/HackCU/">Facebook</a>, or <a href="https://www.instagram.com/hackcu/">Instagram</a>.</p>
+
+:ET

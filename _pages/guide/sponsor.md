@@ -4,16 +4,16 @@ title: Sponsor guide
 description: Sponsor guide for HackCU Episode VI
 ---
 
-HackCU is thrilled to have you as a sponsor this year at HackCU VI! We appreciate all of your support for this event and it couldn't happen without you. We have created this short logistics guide to explain the outline and location of the event. Please feel free to email **[mackenzie@hackcu.org](mailto:mackenzie@hackcu.org)** or **[kevin@hackcu.org](mailto:kevin@hackcu.org)** with any additional questions.
+HackCU is thrilled to have you as a sponsor this year at HackCU 8! We appreciate all of your support for this event and it couldn't happen without you. We have created this short logistics guide to explain the outline and location of the event. Please feel free to email **[mackenzie@hackcu.org](mailto:mackenzie@hackcu.org)** or **[kevin@hackcu.org](mailto:kevin@hackcu.org)** with any additional questions.
 
 ---
 
 
 ### Date
-February 22nd and February 23rd, 2020
+March 5th and March 6th, 2022
 
 ### Time 
-February 22nd: 8:00 AM - February 23rd: 4:00 PM.
+March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 ### Where
 >Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave

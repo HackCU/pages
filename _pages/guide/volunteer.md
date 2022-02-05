@@ -5,7 +5,7 @@ description: Volunteer guide for HackCU Episode VI
 ---
 
 
-HackCU is thrilled to have you help out this year at HackCU VI! This event would not be complete without you. We will be setting up the venue on Friday, February at 5:30 PM.  **You are not expected to be at the event apart from the time slots you originally signed up for.**
+HackCU is thrilled to have you help out this year at HackCU 8! This event would not be complete without you. We will be setting up the venue on Friday, February at 5:30 PM.  **You are not expected to be at the event apart from the time slots you originally signed up for.**
 
 ----
 
