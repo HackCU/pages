@@ -1,6 +1,6 @@
-I"A*<p>Hello, Hacker!</p>
+I"§*<p>Hello, Hacker!</p>
 
-<p>We are excited to welcome you to HackCU VI this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities, we will only be admitting the <b>FIRST</b> 420 hackers into the space.</p>
+<p>We are excited to welcome you to HackCU 8 this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities in light of COVID, we will only be admitting the <b>FIRST</b> 250 hackers into the space.</p>
 
 <hr />
 
@@ -24,25 +24,29 @@
 
 <h3 id="check-in">Check-in</h3>
 <p>Check-in will be at the South entrance closest to Colorado Ave. You must get a lanyard or badge in order to check-in.</p>
+<p>&nbsp;</p>
 
-<h2 id="before-the-event">Before the Event</h2>
+<h2 id="before-the-event"><u>Before the Event<u></u></u></h2>
 
 <h3 id="what-should-i-bring-briefcase">What should I Bring :briefcase:</h3>
 
-<p>Laptop, chargers, a <b>valid ID</b>, and of course yourself!</p>
+<p>Laptop, chargers, a water bottle, a <b>valid ID</b>, and of course yourself!</p>
 
 <h3 id="parking-car">Parking :car:</h3>
 
-<p>The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive.</p>
+<p>More info coming soon!</p>
 
-<p><img src="/assets/img/res/jscbb_parking.png" alt="JSCBB Parking" title="JSCBB" /></p>
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
 
 <h3 id="check-in-wave">Check-in :wave:</h3>
 <p>Check-in will begin at 8:00AM on Saturday March 5th at the South entrance of the JSCBB. <b> You 
 must get a badge and lanyard to enter the event</b>. This badge must stay
 on for the entire duration of the event. In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at <b><a href="https://my.hackcu.org">my.hackcu.org</a></b>.</p>
+<p>&nbsp;</p>
 
-<h2 id="during-the-event">During the Event</h2>
+<h2 id="during-the-event"><u>During the Event<u></u></u></h2>
 
 <h3 id="opening-ceremony">Opening ceremony</h3>
 <p>Opening ceremonies will begin at 11:00AM in the JSCBB in Auditorium A115.
@@ -112,7 +116,7 @@ and they will be abel to help you find a solution.</p>
 
 <h3 id="hardware-wrench">Hardware :wrench:</h3>
 
-<p>We will some sweet hardware for you to hack on!</p>
+<p>More Info regarding the availability of hardware coming soon!</p>
 
 <h3 id="preliminary-schedule-alarm_clock">Preliminary Schedule :alarm_clock:</h3>
 
@@ -165,7 +169,7 @@ and they will be abel to help you find a solution.</p>
 
 <h3 id="project-submissions-trophy">Project Submissions :trophy:</h3>
 
-<p>Please submit your projects on our <a href="https://hackcu-vi.devpost.com/">Devpost</a> by <strong>Sunday the 23rd at 12:00 PM</strong>.  Also remember to opt-in for any sponsor prizes that you are eligible for. <strong>Submit early, you can edit your submission!</strong></p>
+<p>Please submit your projects on our <a href="https://hackcu-vi.devpost.com/">Devpost</a> by <strong>March 6th at 12:00 PM</strong>.  Also remember to opt-in for any sponsor prizes that you are eligible for. <strong>Submit early, you can edit your submission!</strong></p>
 
 <p>Our judging will take place expo style. You should still demo your project even if youâ€™re not finished.</p>
 

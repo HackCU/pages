@@ -60,9 +60,12 @@ You will see check in when you arrive. Please provide your name to the check in 
 
 ### Parking :car:
 
-The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+More info coming soon!
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
+
 
 
 

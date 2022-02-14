@@ -20,8 +20,6 @@ March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 >Boulder, CO 80303
 
-### Parking
-Check out our parking map below.
 
 ### Check-in 
 Check-in will be at the **South entrance closest to Colorado Ave.**
@@ -30,9 +28,12 @@ Mackenzie will meet you here. Please feel free to arrive at **7:30 AM** on Satur
 
 ### Parking :car:
 
-The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+More info coming soon!
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
+
 
 
 ---

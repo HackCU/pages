@@ -26,19 +26,21 @@ Check out our parking map below.
 
 ### Check-in 
 Check-in will be at the South entrance closest to Colorado Ave. You must get a lanyard or badge in order to check-in. 
+<p>&nbsp;</p>
 
-
-## Before the Event
+## <u>Before the Event<u>
 
 ### What should I Bring :briefcase:
 
-Laptop, chargers, a <b>valid ID</b>, and of course yourself!
+Laptop, chargers, a water bottle, a <b>valid ID</b>, and of course yourself!
 
 ### Parking :car:
 
-The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+More info coming soon!
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
 
 
 
@@ -46,9 +48,9 @@ The JSCBB lot #543 is located on the northwest corner of the building.  The lot 
 Check-in will begin at 8:00AM on Saturday March 5th at the South entrance of the JSCBB. <b> You 
 must get a badge and lanyard to enter the event</b>. This badge must stay
 on for the entire duration of the event. In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at <b>[my.hackcu.org](https://my.hackcu.org)</b>.
+<p>&nbsp;</p>
 
-
-## During the Event
+## <u>During the Event<u>
 
 ### Opening ceremony
 Opening ceremonies will begin at 11:00AM in the JSCBB in Auditorium A115.
@@ -117,7 +119,7 @@ Some of our sponsors have already uploaded their challenges. Check them out now 
 
 ### Hardware :wrench:
 
-We will some sweet hardware for you to hack on!
+More Info regarding the availability of hardware coming soon! 
 
 ### Preliminary Schedule :alarm_clock:
 

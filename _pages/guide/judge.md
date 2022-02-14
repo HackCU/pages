@@ -31,9 +31,12 @@ Judging will take place from 12:30 PM to 2:30 PM. It will be following a science
 
 ### Parking :car:
 
-The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+More info coming soon!
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
+
 
 
 ---
@@ -55,4 +58,4 @@ As crucial as the technology behind a project is, for the best engagement from u
 Technology is a powerful tool that allows us to identify and combat real-world problems that billions of people face around the world today. This track will be assessed based on the project’s ability to propose a resolution for a social issue.
 
 ### Games, Music, & Entertainment
-Description coming soon!
+Itching to bring your game ideas to life? Have the next great entertainment app idea? Want to design your own custom music platform? Then the Games, Music, and Entertainment track is for you! Let your creative energy flow as you participate in this awesome track! The track will be judged on the project's innocative and creative nature.

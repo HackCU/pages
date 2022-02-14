@@ -1,4 +1,4 @@
-I"š<p>HackCU is thrilled to have you help out this year at HackCU VI! This event would not be complete without you. As a mentor, you will be helping students work on projects, learn all about a new technology, or come up with creative ideas. Participants will then have 12 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing.</p>
+I"`<p>HackCU is thrilled to have you help out this year at HackCU 8! This event would not be complete without you. As a mentor, you will be helping students work on projects, learn all about a new technology, or come up with creative ideas. Participants will then have 12 hours to work on any project they choose. HackCU gives participants the resources, space, and time to create something amazing.</p>
 
 <h2 id="who-is-a-mentor">Who is a mentor?</h2>
 
@@ -60,9 +60,11 @@
 
 <h3 id="parking-car">Parking :car:</h3>
 
-<p>The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive.</p>
+<p>More info coming soon!</p>
 
-<p><img src="/assets/img/res/jscbb_parking.png" alt="JSCBB Parking" title="JSCBB" /></p>
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
 
 <hr />
 
@@ -72,29 +74,33 @@
 
 <p>Here are some important times to be aware of:</p>
 
-<p><strong>February 22nd (Saturday)</strong></p>
+<p><strong>March 5th (Saturday)</strong></p>
 
 <ul>
   <li>8:00 AM - Arrival and Check-in</li>
   <li>8:00 AM - Breakfast</li>
-  <li>9:00 AM - Career Fair</li>
+  <li>9:00 AM - Team Formation</li>
   <li>11:00 AM - Opening Ceremonies</li>
-  <li>12:00 PM - Team Formation</li>
+  <li>12:00 PM - Lunch 1</li>
   <li>12:00 PM - Hacking Begins!</li>
-  <li>12:00 PM - Lunch</li>
-  <li>1:00 PM - Intro workshops</li>
-  <li>6:00 PM - Dinner</li>
+  <li>1:00 PM - Introduction to Git</li>
+  <li>3:00 PM - Introduction to Project Managment</li>
+  <li>4:00 PM - Bioinformatics and Genomics</li>
+  <li>5:00 PM - Fask Masks and Yoga</li>
+  <li>6:00 PM - Dinner 1</li>
+  <li>7:00 PM - Harry Potter Trivia</li>
+  <li>8:00 PM - Movie</li>
   <li>11:00 PM - Late Night Dessert</li>
 </ul>
 
-<p><strong>February 23rd (Sunday)</strong></p>
+<p><strong>March 6th (Sunday)</strong></p>
 
 <ul>
-  <li>8:00 AM - Breakfast</li>
-  <li>12:00 PM - Lunch</li>
-  <li>12:00 PM - Hacking Ends!</li>
-  <li>12:30 PM - Project Expo!</li>
-  <li>3:00 PM - Closing Ceremonies</li>
+  <li>8:00 AM - Breakfast 2</li>
+  <li>12:00 PM - Hacking Ends! Projects Due!</li>
+  <li>12:00 PM - Lunch 2</li>
+  <li>12:30 PM - Project Expo and Judging!</li>
+  <li>3:00 PM - Closing Ceremonies!</li>
 </ul>
 
 <hr />
@@ -121,6 +127,6 @@
 
 <h2 id="more-questions">More questions?</h2>
 
-<p>Email us at <b><a href="mailto:contact@hackcu.org">contact@hackcu.org</a></b>! To reach out to our directors, please contact <b><a href="mailto:mackenzie@hackcu.org">mackenzie@hackcu.org</a></b> or <b><a href="mailto:priyanka@hackcu.org">priyanka@hackcu.org</a></b>. You can also reach out to us on our <b><a href="https://twitter.com/hackcu">Twitter</a></b> or <b><a href="https://www.facebook.com/HackCU/">Facebook</a></b>.</p>
+<p>Email us at <b><a href="mailto:contact@hackcu.org">contact@hackcu.org</a></b>! To reach out to our directors, please contact <b><a href="mailto:kyle@hackcu.org">kyle@hackcu.org</a></b> or <b><a href="mailto:kayla@hackcu.org">kayla@hackcu.org</a></b>. You can also reach out to us on our <b><a href="https://twitter.com/hackcu">Twitter</a></b> or <b><a href="https://www.facebook.com/HackCU/">Facebook</a></b>.</p>
 
 :ET

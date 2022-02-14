@@ -1,14 +1,14 @@
-I"*<p>Hello, Hacker!</p>
+I"j*<p>Hello, Hacker!</p>
 
-<p>We are excited to welcome you to HackCU VI this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities, we will only be admitting the <b>FIRST</b> 420 hackers into the space.</p>
+<p>We are excited to welcome you to HackCU 8 this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities in light of COVID, we will only be admitting the <b>FIRST</b> 250 hackers into the space.</p>
 
 <hr />
 
 <h3 id="date">Date</h3>
-<p>February 22nd and February 23rd, 2020</p>
+<p>March 5th and March 6th, 2022</p>
 
 <h3 id="time">Time</h3>
-<p>February 22nd: 8:00 AM - February 23rd: 4:00 PM.</p>
+<p>March 5th: 8:00 AM - March 6th: 4:00 PM.</p>
 
 <h3 id="where">Where</h3>
 <blockquote>
@@ -24,12 +24,13 @@
 
 <h3 id="check-in">Check-in</h3>
 <p>Check-in will be at the South entrance closest to Colorado Ave. You must get a lanyard or badge in order to check-in.</p>
+<p>&nbsp;</p>
 
 <h2 id="before-the-event">Before the Event</h2>
 
 <h3 id="what-should-i-bring-briefcase">What should I Bring :briefcase:</h3>
 
-<p>Laptop, chargers, a <b>valid ID</b>, and of course yourself!</p>
+<p>Laptop, chargers, a water bottle, a <b>valid ID</b>, and of course yourself!</p>
 
 <h3 id="parking-car">Parking :car:</h3>
 
@@ -37,16 +38,8 @@
 
 <p><img src="/assets/img/res/jscbb_parking.png" alt="JSCBB Parking" title="JSCBB" /></p>
 
-<h2 id="lyft-code">Lyft Code</h2>
-
-<p>Join Lyft and use the code below:</p>
-
-<p><b><a href="https://www.lyft.com/i/HACKCUVI2020">Click Me!</a></b></p>
-
-<p>Code: <b>HACKCUVI2020</b></p>
-
 <h3 id="check-in-wave">Check-in :wave:</h3>
-<p>Check-in will begin at 8:00AM at the South entrance of the JSCBB. <b> You 
+<p>Check-in will begin at 8:00AM on Saturday March 5th at the South entrance of the JSCBB. <b> You 
 must get a badge and lanyard to enter the event</b>. This badge must stay
 on for the entire duration of the event. In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at <b><a href="https://my.hackcu.org">my.hackcu.org</a></b>.</p>
 
@@ -62,7 +55,7 @@ auditoriums as well.</p>
 Sunday at 12:00PM.</b></p>
 
 <p>HackCU is meant as a time for hackers to work on whatever projects they like
-in a low stree, fun, and collaborative environment. This is a great time for
+in a low stress, fun, and collaborative environment. This is a great time for
 hackers to work on projects from previous events. It’s a change to learn a 
 new technology.</p>
 
@@ -73,7 +66,7 @@ new technology.</p>
 <h3 id="team-size">Team Size</h3>
 <p>Teams can be a <b>maximum of 4 people</b>. You can look for teammates in the 
 <code class="language-plaintext highlighter-rouge">#general</code> channel in slack. We will also be hosting a team formation activity
-at 12:00PM on Saturday. Join the <code class="language-plaintext highlighter-rouge">#formingteams</code> channel on our <a href="http://hackcu.slack.com">Slack</a> to meet other hackers and potential team members before the event</p>
+at 9:00AM on Saturday prior to the opening ceremony. Join the <code class="language-plaintext highlighter-rouge">#formingteams</code> channel on our <a href="http://hackcu.slack.com">Slack</a> to meet other hackers and potential team members before the event</p>
 
 <h3 id="submissions">Submissions</h3>
 
@@ -128,29 +121,33 @@ and they will be abel to help you find a solution.</p>
 
 <p>Here are some important times to be aware of:</p>
 
-<p><strong>February 22nd (Saturday)</strong></p>
+<p><strong>March 5th (Saturday)</strong></p>
 
 <ul>
   <li>8:00 AM - Arrival and Check-in</li>
   <li>8:00 AM - Breakfast</li>
-  <li>9:00 AM - Career Fair</li>
+  <li>9:00 AM - Team Formation</li>
   <li>11:00 AM - Opening Ceremonies</li>
-  <li>12:00 PM - Team Formation</li>
+  <li>12:00 PM - Lunch 1</li>
   <li>12:00 PM - Hacking Begins!</li>
-  <li>12:00 PM - Lunch</li>
-  <li>1:00 PM - Intro workshops</li>
-  <li>6:00 PM - Dinner</li>
+  <li>1:00 PM - Introduction to Git</li>
+  <li>3:00 PM - Introduction to Project Managment</li>
+  <li>4:00 PM - Bioinformatics and Genomics</li>
+  <li>5:00 PM - Fask Masks and Yoga</li>
+  <li>6:00 PM - Dinner 1</li>
+  <li>7:00 PM - Harry Potter Trivia</li>
+  <li>8:00 PM - Movie</li>
   <li>11:00 PM - Late Night Dessert</li>
 </ul>
 
-<p><strong>February 23rd (Sunday)</strong></p>
+<p><strong>March 6th (Sunday)</strong></p>
 
 <ul>
-  <li>8:00 AM - Breakfast</li>
-  <li>12:00 PM - Lunch</li>
-  <li>12:00 PM - Hacking Ends!</li>
-  <li>12:30 PM - Project Expo!</li>
-  <li>3:00 PM - Closing Ceremonies</li>
+  <li>8:00 AM - Breakfast 2</li>
+  <li>12:00 PM - Hacking Ends! Projects Due!</li>
+  <li>12:00 PM - Lunch 2</li>
+  <li>12:30 PM - Project Expo and Judging!</li>
+  <li>3:00 PM - Closing Ceremonies!</li>
 </ul>
 
 <h3 id="schedule">Schedule</h3>
@@ -169,7 +166,7 @@ and they will be abel to help you find a solution.</p>
 
 <h3 id="project-submissions-trophy">Project Submissions :trophy:</h3>
 
-<p>Please submit your projects on our <a href="https://hackcu-vi.devpost.com/">Devpost</a> by <strong>Sunday the 23rd at 12:00 PM</strong>.  Also remember to opt-in for any sponsor prizes that you are eligible for. <strong>Submit early, you can edit your submission!</strong></p>
+<p>Please submit your projects on our <a href="https://hackcu-vi.devpost.com/">Devpost</a> by <strong>March 6th at 12:00 PM</strong>.  Also remember to opt-in for any sponsor prizes that you are eligible for. <strong>Submit early, you can edit your submission!</strong></p>
 
 <p>Our judging will take place expo style. You should still demo your project even if you’re not finished.</p>
 
