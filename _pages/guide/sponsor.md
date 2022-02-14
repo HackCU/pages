@@ -51,9 +51,9 @@ Participants love company swag! If you have a table, feel free to bring it for y
 have a table but still have swag to give out, contact us and we will put it out for you.
 
 
-### How can I join Slack?
+### How can I join Discord?
 
-Get onto our Slack at **[here](https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU)** to communicate with participants, mentors, other sponsors
+Get onto our Discord at **[here](https://discord.gg/uFg8sq2Gq9)** to communicate with participants, mentors, other sponsors
 and the admin team.
 
 ### Will there be food and drinks?
@@ -88,7 +88,7 @@ Make sure to tag social media posts related to the event with **[\#HackCU](https
 
 - Our website: **[hackcu.org](https://hackcu.org)**
 - Live page: **[live.hackcu.org](https://live.hackcu.org)**
-- Slack Channel: **[hackcu.slack.com](https://hackcu.slack.com)**
+- Discord Channel: **[hackcu.Discord.com](https://discord.gg/uFg8sq2Gq9)**
 - Devpost: **[hackcu-vi.devpost.com](https://hackcu-vi.devpost.com/)**
 
 ----

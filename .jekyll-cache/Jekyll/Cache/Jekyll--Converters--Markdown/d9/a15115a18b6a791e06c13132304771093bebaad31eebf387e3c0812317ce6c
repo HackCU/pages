@@ -1,4 +1,4 @@
-I"x*<p>Hello, Hacker!</p>
+I"�)<p>Hello, Hacker!</p>
 
 <p>We are excited to welcome you to HackCU 8 this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities in light of COVID, we will only be admitting the <b>FIRST</b> 250 hackers into the space.</p>
 
@@ -34,16 +34,19 @@
 
 <h3 id="parking-car">Parking :car:</h3>
 
-<p>The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive.</p>
+<p>More info coming soon!</p>
 
-<p><img src="/assets/img/res/jscbb_parking.png" alt="JSCBB Parking" title="JSCBB" /></p>
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
 
 <h3 id="check-in-wave">Check-in :wave:</h3>
 <p>Check-in will begin at 8:00AM on Saturday March 5th at the South entrance of the JSCBB. <b> You 
 must get a badge and lanyard to enter the event</b>. This badge must stay
 on for the entire duration of the event. In order to make check-in go smoother, please show us the QR code you got in your email when checking in. You can also find it online at <b><a href="https://my.hackcu.org">my.hackcu.org</a></b>.</p>
+<p>&nbsp;</p>
 
-<h2 id="during-the-event">During the Event</h2>
+<h2 id="during-the-event"><u>During the Event<u></u></u></h2>
 
 <h3 id="opening-ceremony">Opening ceremony</h3>
 <p>Opening ceremonies will begin at 11:00AM in the JSCBB in Auditorium A115.
@@ -77,21 +80,21 @@ your projects on Devpost before then.</p>
 the HackCU VI Devpost.
 Make sure you select University of Colorado Boulder as the event you are participating in.</p>
 
-<h3 id="slack-exclamation">Slack :exclamation:</h3>
-<p>Join the HackCU slack <b><a href="https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU">here</a></b>. Once signed up, join the <code class="language-plaintext highlighter-rouge">#general</code> channel. We will be posting all
-announcements and side events in the <code class="language-plaintext highlighter-rouge">#general</code> channel. If you are not invited, please let
+<h3 id="discord-exclamation">Discord :exclamation:</h3>
+<p>Join the HackCU Discord <b><a href="https://discord.gg/uFg8sq2Gq9">here</a></b>. Once signed up, join the <code class="language-plaintext highlighter-rouge">#announcments</code> channel. We will be posting all
+announcements and side events in the <code class="language-plaintext highlighter-rouge">#announcments</code> channel. If you are not invited, please let
 us know when you arrive at the venue! Here are the channels:</p>
 
 <ul>
   <li><code class="language-plaintext highlighter-rouge">#announcements</code>: We will be using this to announce our intro talks, food being served and stuff about HackCU. :loudspeaker:</li>
-  <li><code class="language-plaintext highlighter-rouge">#general</code>: Talk about HackCU and get to know each other!</li>
-  <li><code class="language-plaintext highlighter-rouge">#formingteams</code>: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:</li>
-  <li><code class="language-plaintext highlighter-rouge">#whatmusicdoyoulike</code>: Have a playlist you’d like to share with hackers? Or a song request? :notes:</li>
   <li><code class="language-plaintext highlighter-rouge">#mentors</code>: Mentors will hangout here!</li>
-  <li><code class="language-plaintext highlighter-rouge">#random</code>: THE GIPHY channel (jk, say whatever there) <code class="language-plaintext highlighter-rouge">if (message.randomness &gt; 0.5): message.post(#random)</code></li>
-  <li><code class="language-plaintext highlighter-rouge">#looking_for_jobs</code>: Post your Linkedin so that recruiters can find you!</li>
-  <li><code class="language-plaintext highlighter-rouge">#twitter</code>: You can see here all our post on Twitter and all conversations we have! :bird:</li>
-  <li><code class="language-plaintext highlighter-rouge">#food</code>: Have any recommendations for snacks you’d like us to pick up? We’ll also be making anouncements about food and snacks here. :fries:</li>
+  <li><code class="language-plaintext highlighter-rouge">#introductions</code>: Talk about HackCU and get to know each other!</li>
+  <li><code class="language-plaintext highlighter-rouge">#ask-an-organizer</code>: Ask a hackCU 8 organizer your burning questions!</li>
+  <li><code class="language-plaintext highlighter-rouge">#team-formation</code>: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:</li>
+  <li><code class="language-plaintext highlighter-rouge">#random-chat</code>: THE GIPHY channel (jk, say whatever there) <!--`if (message.randomness > 0.5): message.post(#random)` --></li>
+  <li><code class="language-plaintext highlighter-rouge">#job-chat</code>: Post your Linkedin so that recruiters can find you! Also a great place to discuss job-hunting strategy with fellow hackers!</li>
+  <li><code class="language-plaintext highlighter-rouge">#memes</code>: Drop your best appropriate memes here to destress!</li>
+  <li><code class="language-plaintext highlighter-rouge">#Meeting Room</code>: A VC channel and a great place to chat with your fellow hackers prior to the event.</li>
 </ul>
 
 <h3 id="mentors">Mentors</h3>
@@ -113,7 +116,7 @@ and they will be abel to help you find a solution.</p>
 
 <h3 id="hardware-wrench">Hardware :wrench:</h3>
 
-<p>We will some sweet hardware for you to hack on!</p>
+<p>More Info regarding the availability of hardware coming soon!</p>
 
 <h3 id="preliminary-schedule-alarm_clock">Preliminary Schedule :alarm_clock:</h3>
 

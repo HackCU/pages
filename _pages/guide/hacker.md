@@ -72,8 +72,8 @@ We will be using CU's WiFi. Use `eduroam` or `UCB Wireless` to leave
 
 ### Team Size
 Teams can be a <b>maximum of 4 people</b>. You can look for teammates in the 
-`#general` channel in slack. We will also be hosting a team formation activity
-at 9:00AM on Saturday prior to the opening ceremony. Join the `#formingteams` channel on our [Slack](http://hackcu.slack.com) to meet other hackers and potential team members before the event
+`#general` channel in discord. We will also be hosting a team formation activity
+at 9:00AM on Saturday prior to the opening ceremony. Join the `#formingteams` channel on our [discord](https://discord.gg/uFg8sq2Gq9) to meet other hackers and potential team members before the event
 
 ### Submissions
 
@@ -84,24 +84,24 @@ your projects on Devpost before then.
 the HackCU VI Devpost.
 Make sure you select University of Colorado Boulder as the event you are participating in.
 
-### Slack :exclamation:
-Join the HackCU slack <b>[here](https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU)</b>. Once signed up, join the `#general` channel. We will be posting all
-announcements and side events in the `#general` channel. If you are not invited, please let
+### Discord :exclamation:
+Join the HackCU Discord <b>[here](https://discord.gg/uFg8sq2Gq9)</b>. Once signed up, join the `#announcments` channel. We will be posting all
+announcements and side events in the `#announcments` channel. If you are not invited, please let
 us know when you arrive at the venue! Here are the channels:
 
 - `#announcements`: We will be using this to announce our intro talks, food being served and stuff about HackCU. :loudspeaker:
-- `#general`: Talk about HackCU and get to know each other! 
-- `#formingteams`: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
-- `#whatmusicdoyoulike`: Have a playlist you'd like to share with hackers? Or a song request? :notes:
 - `#mentors`: Mentors will hangout here!
-- `#random`: THE GIPHY channel (jk, say whatever there) `if (message.randomness > 0.5): message.post(#random)`
-- `#looking_for_jobs`: Post your Linkedin so that recruiters can find you!
-- `#twitter`: You can see here all our post on Twitter and all conversations we have! :bird:
-- `#food`: Have any recommendations for snacks you'd like us to pick up? We'll also be making anouncements about food and snacks here. :fries:
+- `#introductions`: Talk about HackCU and get to know each other! 
+- `#ask-an-organizer`: Ask a hackCU 8 organizer your burning questions!
+- `#team-formation`: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
+ - `#random-chat`: THE GIPHY channel (jk, say whatever there) <!--`if (message.randomness > 0.5): message.post(#random)` -->
+- `#job-chat`: Post your Linkedin so that recruiters can find you! Also a great place to discuss job-hunting strategy with fellow hackers!
+- `#memes`: Drop your best appropriate memes here to destress!
+- `#Meeting Room`: A VC channel and a great place to chat with your fellow hackers prior to the event.
 
 ### Mentors 
 We will have mentors around to help you at on your projects! Mentors will be
-hanging out on Slack `#mentors` channel, at their mentor table and around the
+hanging out on Discord `#mentors` channel, at their mentor table and around the
 venue where you are more than welcome to ask any questins about your project
 and they will be abel to help you find a solution.
 
@@ -138,7 +138,7 @@ You can find an updated schedule here:
 
 ### Need Help? Mentors! :raised_hand: 
 
-Need help? Go to the `#mentors` channel on slack!
+Need help? Go to the `#mentors` channel on discord!
 
 ### Project Submissions :trophy:
 
@@ -158,7 +158,7 @@ Make sure to tag social media posts related to the event with **\#HackCU**. We'l
 
 - Our website: [hackcu.org](https://hackcu.org)
 - Live page: [live.hackcu.org](https://live.hackcu.org)
-- Slack: [hackcu.slack.com](https://hackcu.slack.com)
+- discord: [hackcu.slack.com](https://discord.gg/uFg8sq2Gq9)
 - Devpost: [hackcu-vi.devpost.com](https://hackcu-vi.devpost.com/)
 - Check-in QR: [my.hackcu.org](https://my.hackcu.org)
 

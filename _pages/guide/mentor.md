@@ -19,7 +19,7 @@ During the event, we expect mentors to:
 
 - Act as helpers, moving from group to group and helping hackers with any questions or roadblocks they have. However, mentors can’t submit a project or contribute in a team’s project in such a way that a project is mainly his/her work. Their task is to guide and help teams to carry on their own projects.
 - Help hackers building their team at the team building event, which takes place at the beginning of the hackathon.
-- Join HackCU's Slack: <b>[here](https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU)</b>
+- Join HackCU's Discord: <b>[here](https://discord.gg/uFg8sq2Gq9)</b>
 - Hacking at HackCU V starts at 12.00 P.M on Saturday and ends at 12.00 P.M. on Sunday. We recommend you stay at least 1 hour, however, you can stay as long as you would like! Come at any time that is convenient to you. 
 - Check out help requests through our communication channels:
 	- Messages from the `#mentors` Slack channel
@@ -82,8 +82,7 @@ More info coming soon!
 
 - Our website: <b>[hackcu.org](https://hackcu.org)</b>
 - Live page: <b>[live.hackcu.org](https://live.hackcu.org)</b>
-- Join slack: <b>[here](https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU)</b>
-- Slack: <b>[hackcu.slack.com](https://hackcu.slack.com)</b>
+- Join Discord: <b>[here](https://discord.gg/uFg8sq2Gq9)</b>
 
 ## Social Media
 
