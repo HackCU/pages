@@ -15,7 +15,7 @@ Needs: Ruby
 
 1. `git clone https://github.com/hackcu/pages && cd pages`
 2. `gem install jekyll && gem install jemoji`
-3. `jekyll serve --watch`
+3. `bundle exec jekyll serve --watch`
 
 ## Deploy
 
