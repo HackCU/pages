@@ -1,0 +1,84 @@
+I"?<p>Hackathons can be intimidating, especially as someone without much technical experience. That’s 100% okay, because Local Hack Day is meant to serve as a supportive environment where you can take the time to learn something new! If you ever get stuck, seek help! There are mentors (and some peers) willing to lend a helping hand! Also feel free to ask questions on the #lhd-boulder channel on <a href="localhackday.slack.com">Slack</a>.</p>
+
+<p>Here are some project ideas to start you off (for students who are taking/have taken CSCI 1300/2270, this is a great starting point)!</p>
+
+<p>Note: These are merely guidelines/suggestions of how to go about making these projects. The features/details are entirely up to you. You might not necessarily finish the project within the day. As long as you learn something new, then it was worthwhile!</p>
+
+<hr />
+
+<h2 id="chess">Chess</h2>
+<ul>
+  <li>Start with making a 2-player mode.</li>
+  <li>Make a board (8x8) to hold pieces.</li>
+  <li>Pieces should be their own class (and have members such as current position, available moves, value. Here’s a nice <a href="https://en.wikipedia.org/wiki/Chess_piece_relative_value">Wikipedia page</a>) covering values.</li>
+  <li>Have some way to see if either King piece is in check/checkmate</li>
+  <li>Be able to take in user input from 2 different people, and change the board state</li>
+  <li>Handle pawn promotion and castling</li>
+  <li>Handle <a href="https://en.wikipedia.org/wiki/En_passant">En Passant</a>.</li>
+  <li>Graphics? DevC++, SDL, SFML are good options.</li>
+  <li>Possibly log game history, and be able to undo moves?</li>
+  <li>AI (more difficult): Minimax algorithm with depth-limited search? Here’s an <a href="https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977">overview</a>.</li>
+</ul>
+
+<hr />
+
+<h2 id="minesweeper">Minesweeper</h2>
+<ul>
+  <li>Different board sizes based on user-selected difficulty</li>
+  <li>Random placement of mines</li>
+  <li>Board should be able to hold mines and empty spaces</li>
+  <li>Upon choosing an empty space, user should either: reveal more spaces if it wasn’t near a mine, or reveal a number if the square is near mines</li>
+  <li>User should be able to flag squares (preventing square from being revealed until flag is taken off)</li>
+  <li>Have a timer counting up (for score), for when user finishes the game (all non-mine squares are successfully revealed by user)</li>
+  <li>If user selects a square with a mine, end game and reveal where all mines were</li>
+  <li>Graphics? DevC++, SDL, SFML are good options.</li>
+  <li>AI (more difficult): Here’s a <a href="https://luckytoilet.wordpress.com/2012/12/23/2125/">starting point</a>.</li>
+</ul>
+
+<hr />
+
+<h2 id="planner">Planner</h2>
+<ul>
+  <li>Calendar that can hold events, classes, due dates, etc.</li>
+  <li>User should have option to save (write to file) and load (read from file).</li>
+  <li>New events should have names, descriptions, times (duration), dates, possibly repeating?</li>
+  <li>Meetings/events with set durations could be specified within a time range, suggestions for possible times could be given as feedback</li>
+  <li>Todo-list for the day, for the week?</li>
+  <li>Different views? (daily, weekly, monthly?)</li>
+  <li>Filter/group events (view only certain categories of events)</li>
+  <li>Graphics? DevC++, SDL, SFML are good options.</li>
+</ul>
+
+<hr />
+
+<h2 id="calculator">Calculator</h2>
+<ul>
+  <li>Evaluate different operations, given numerical inputs?</li>
+  <li>As sophisticated as you want to make it (can it handle multiple lines of computations, or just simple addition?)</li>
+  <li>Base converter? (Hexadecimal, binary, decimal)?</li>
+  <li>Implement matrix operations?</li>
+  <li>Quadratic formula solver?</li>
+  <li>Perimeter/Area computation?</li>
+  <li>Surface Area/Volume computation?</li>
+</ul>
+
+<hr />
+
+<h2 id="message-encryptordecryptor">Message Encryptor/Decryptor</h2>
+<ul>
+  <li>Implement different encryption algorithms given an input (either as user input or as a file), and output to a file</li>
+  <li>Can start out with something easy (such as Caesar Cipher/Vigenere Cipher or Pig Latin), select different algorithms to apply to input before outputting?</li>
+  <li>Read in file/user input and attempt to decrypt message.</li>
+</ul>
+
+<hr />
+
+<h2 id="monopoly">Monopoly</h2>
+<ul>
+  <li>Specifications, rules, etc. can be found <a href="http://monopoly.wikia.com/wiki/Monopoly">here</a>.</li>
+  <li>Need random dice rolls</li>
+  <li>Multiplayer support</li>
+  <li>Graphics? DevC++, SDL, SFML are good options.</li>
+  <li>This can pretty much be as complicated as you would like.</li>
+</ul>
+:ET

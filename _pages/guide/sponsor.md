@@ -4,24 +4,22 @@ title: Sponsor guide
 description: Sponsor guide for HackCU Episode VI
 ---
 
-HackCU is thrilled to have you as a sponsor this year at HackCU VI! We appreciate all of your support for this event and it couldn't happen without you. We have created this short logistics guide to explain the outline and location of the event. Please feel free to email **[mackenzie@hackcu.org](mailto:mackenzie@hackcu.org)** or **[kevin@hackcu.org](mailto:kevin@hackcu.org)** with any additional questions.
+HackCU is thrilled to have you as a sponsor this year at HackCU 8! We appreciate all of your support for this event and it couldn't happen without you. We have created this short logistics guide to explain the outline and location of the event. Please feel free to email **[mackenzie@hackcu.org](mailto:mackenzie@hackcu.org)** or **[kevin@hackcu.org](mailto:kevin@hackcu.org)** with any additional questions.
 
 ---
 
 
 ### Date
-February 22nd and February 23rd, 2020
+March 5th and March 6th, 2022
 
 ### Time 
-February 22nd: 8:00 AM - February 23rd: 4:00 PM.
+March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 ### Where
 >Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave
 
 >Boulder, CO 80303
 
-### Parking
-Check out our parking map below.
 
 ### Check-in 
 Check-in will be at the **South entrance closest to Colorado Ave.**
@@ -30,9 +28,12 @@ Mackenzie will meet you here. Please feel free to arrive at **7:30 AM** on Satur
 
 ### Parking :car:
 
-The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+More info coming soon!
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
+
 
 
 ---
@@ -50,9 +51,9 @@ Participants love company swag! If you have a table, feel free to bring it for y
 have a table but still have swag to give out, contact us and we will put it out for you.
 
 
-### How can I join Slack?
+### How can I join Discord?
 
-Get onto our Slack at **[here](https://join.slack.com/t/hackcu/shared_invite/enQtOTM2MDQ2OTY4MDUwLTNlOWQzMmRjMDM4N2UyY2EyZTI0Y2I3ZWFjMTEyNTQ3YzYzOGQyNDUwYjMyMTg2OTI5NzgzNWFhNzY4NmVhYzU)** to communicate with participants, mentors, other sponsors
+Get onto our Discord at **[here](https://discord.gg/uFg8sq2Gq9)** to communicate with participants, mentors, other sponsors
 and the admin team.
 
 ### Will there be food and drinks?
@@ -87,7 +88,7 @@ Make sure to tag social media posts related to the event with **[\#HackCU](https
 
 - Our website: **[hackcu.org](https://hackcu.org)**
 - Live page: **[live.hackcu.org](https://live.hackcu.org)**
-- Slack Channel: **[hackcu.slack.com](https://hackcu.slack.com)**
+- Discord Channel: **[hackcu.Discord.com](https://discord.gg/uFg8sq2Gq9)**
 - Devpost: **[hackcu-vi.devpost.com](https://hackcu-vi.devpost.com/)**
 
 ----
