@@ -4,7 +4,7 @@ title: Sponsor guide
 description: Sponsor guide for HackCU Episode VI
 ---
 
-HackCU is thrilled to have you as a sponsor this year at HackCU 8! We appreciate all of your support for this event and it couldn't happen without you. We have created this short logistics guide to explain the outline and location of the event. Please feel free to email **[mackenzie@hackcu.org](mailto:mackenzie@hackcu.org)** or **[kevin@hackcu.org](mailto:kevin@hackcu.org)** with any additional questions.
+HackCU is thrilled to have you as a sponsor this year at HackCU 8! We appreciate all of your support for this event and it couldn't happen without you. We have created this short logistics guide to explain the outline and location of the event. Please feel free to email <b>[kyle@hackcu.org](mailto:kyle@hackcu.org)</b> or <b>[kayla@hackcu.org](mailto:kayla@hackcu.org)</b> with any additional questions.
 
 ---
 

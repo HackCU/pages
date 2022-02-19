@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: base
 title: Mentor guide
 description: Guide to mentor during HackCU Episode VI
@@ -70,14 +70,14 @@ More info coming soon!
 
 
 ---
-
+<!-- 
 ## Preliminary schedule
 
 
 {% include sections/schedule.md %}
 
----
-
+<!-- --- -->
+<!-- 
 ## Links you need!
 
 - Our website: <b>[hackcu.org](https://hackcu.org)</b>
@@ -96,4 +96,4 @@ Make sure to tag social media posts related to the event with **[\#HackCU](https
 ## More questions?
 
 Email us at <b>[contact@hackcu.org](mailto:contact@hackcu.org)</b>! To reach out to our directors, please contact <b>[kyle@hackcu.org](mailto:kyle@hackcu.org)</b> or <b>[kayla@hackcu.org](mailto:kayla@hackcu.org)</b>. You can also reach out to us on our <b>[Twitter](https://twitter.com/hackcu)</b> or <b>[Facebook](https://www.facebook.com/HackCU/)</b>.
-
+ -->
