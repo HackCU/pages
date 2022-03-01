@@ -39,7 +39,7 @@ Please make other arrangements to get to JSBB on East Campus for 2 days. Carpool
 
 If necessary, the HackCU team is providing parking permits for those specific lots, and you can sign up for one here (we have a limited quantity, so permits are given on a first come first serve basis!) 
 
-You must get a permit via https://cuboulder.pmreserve.com with the permit code HACK8402. This permit code allows you to get the pass for free. You must do this for both days. Make sure to print out the pass and put it on your vehicle while parking!
+You must get a permit via [CU parking services](https://cuboulder.pmreserve.com) with the permit code <b>HACK8402</b>. This permit code allows you to get the pass for free. You must do this for both days. Make sure to print out the pass and put it on your vehicle while parking!
 
 ![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
 
