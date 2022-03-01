@@ -21,9 +21,6 @@ March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 >Boulder, CO 80303
 
-### Parking
-Check out our parking map below.
-
 ### Check-in 
 Check-in will be at the South entrance closest to Colorado Ave. You must get a lanyard or badge in order to check-in. 
 <p>&nbsp;</p>
@@ -36,11 +33,19 @@ Laptop, chargers, a water bottle, a <b>valid ID</b>, and of course yourself!
 
 ### Parking :car:
 
-More info coming soon!
+The JSCBB lot #543 is located on the northwest corner of the building (refer to the map below). Parking in the JSCBB lots is not available for free (unless you have an existing permit for any of those lots). 
 
-<!-- The JSCBB lot #543 is located on the northwest corner of the building.  The lot is free after 5:00pm on weekdays and all day on weekends. Please park in this lot if you plan to drive. 
+Please make other arrangements to get to JSBB on East Campus for 2 days. Carpool with friends and team members if you can! 
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
+If necessary, the HackCU team is providing parking permits for those specific lots, and you can sign up for one here (we have a limited quantity, so permits are given on a first come first serve basis!) 
+
+You must get a permit via https://cuboulder.pmreserve.com with the permit code HACK8402. This permit code allows you to get the pass for free. You must do this for both days. Make sure to print out the pass and put it on your vehicle while parking!
+
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+
+### Lyft Code
+
+The Lyft code for this years HackCU is <b> BOULDERHACKCU8 </b>. 
 
 
 
