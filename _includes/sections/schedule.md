@@ -1,4 +1,4 @@
-Check out our  <b>[live page](https://live.hackcu.org/schedule/)</b> for our most recently updated complete schedule.
+Check out our  <b>[live page](https://hackcu.org/live/)</b> for our most recently updated complete schedule.
 
 
 Here are some important times to be aware of:

@@ -117,10 +117,10 @@ and they will be abel to help you find a solution.
 
 **The #1 rule is "Be respectful"**.
 
-Please read [HackCU's code of conduct](https://pages.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. Also read the rules of the competition in our [live page](https://live.hackcu.org/rules/).
+Please read [HackCU's code of conduct](https://pages.hackcu.org/code_conduct/) and [MLH's code of conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf). We require all hackers to abide by these rules. Also read the rules of the competition in our [live page](https://hackcu.org/live/rules).
 
 ### Sponsor challenges and tracks
-Some of our sponsors have already uploaded their challenges. Check them out now in our live page: [live.hackcu.org/prizes/](https://live.hackcu.org/prizes/).
+Some of our sponsors have already uploaded their challenges. Check them out now in our live page: [Prizes](https://hackcu.org/live/prizes).
 
 ### Hardware :wrench:
 
@@ -133,7 +133,7 @@ More Info regarding the availability of hardware coming soon!
 
 ### Schedule 
 You can find an updated schedule here:
-<b>[live.hackcu.org](live.hackcu.org)</b>
+<b>[live.hackcu.org](https://hackcu.org/live/)</b>
 
 
 ### Workshops :computer:
@@ -147,7 +147,7 @@ Need help? Go to the `#mentors` channel on discord!
 
 ### Project Submissions :trophy:
 
-Please submit your projects on our [Devpost](https://hackcu-vi.devpost.com/) by **March 6th at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
+Please submit your projects on our [Devpost](https://hackcu8.devpost.com/) by **March 6th at 12:00 PM**.  Also remember to opt-in for any sponsor prizes that you are eligible for. **Submit early, you can edit your submission!**
 
 Our judging will take place expo style. You should still demo your project even if you're not finished. 
 
@@ -155,16 +155,16 @@ Our judging will take place expo style. You should still demo your project even 
 
 ## Connect with Us :camera:
 
-Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://thttps://hackcu-vi.devpost.com/witter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). 
+Make sure to tag social media posts related to the event with **\#HackCU**. We'll be featuring your posts and highlights from the event on our [Instagram](https://www.instagram.com/hackcu/?hl=en), [Twitter](https://twitter.com/hackcu), and [Facebook](https://www.facebook.com/HackCU/). 
 
 -----
 
 ## Links you need!
 
 - Our website: [hackcu.org](https://hackcu.org)
-- Live page: [live.hackcu.org](https://live.hackcu.org)
+- Live page: [live.hackcu.org](https://hackcu.org/live/)
 - discord: [hackcu.slack.com](https://discord.gg/uFg8sq2Gq9)
-- Devpost: [hackcu-vi.devpost.com](https://hackcu-vi.devpost.com/)
+- Devpost: [hackcu-vi.devpost.com](https://hackcu8.devpost.com/)
 - Check-in QR: [my.hackcu.org](https://my.hackcu.org)
 
 -----
