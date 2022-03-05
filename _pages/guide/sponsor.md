@@ -18,7 +18,7 @@ March 5th: 8:00 AM - March 6th: 4:00 PM.
 ### Where
 >Jennie Smoly Caruthers Biotech Building, 3415 Colorado Ave
 
->Boulder, CO 80303
+>Boulder, CO 80303 
 
 
 ### Check-in 
