@@ -8,12 +8,14 @@ Hello, Hacker!
 
 We are excited to welcome you to HackCU 8 this year! This event would not be complete without you. You will have 24 hours to work on any project you choose. The HackCU team hopes to provide you with the resources, space, and time to create something amazing. Reminder: There is <b>NO sleeping at the venue </b>. If you plan to sleep, please remember you have to find other accommodations for this. We do not have an alternative venue for people to stay at under the sleeping policy. Also, due to venue capacities in light of COVID, we will only be admitting the <b>FIRST</b> 250 hackers into the space.
 
+#### Check out the most recent verison of the [Hacker Guide Here](https://docs.google.com/document/d/e/2PACX-1vS-mrtgropNWl5RvPRYqLBtt3xossLpeTA-qkLmmK49iSkH0KWCK_e7x18ZzcOCwjRRT7_U3W5nzFR6/pub)
+
 ----
 
-### Date
-March 5th and March 6th, 2022
+<!-- ### Date
+March 5th and March 6th, 2022 -->
 
-### Time 
+<!-- ### Time 
 March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 ### Where
@@ -23,9 +25,9 @@ March 5th: 8:00 AM - March 6th: 4:00 PM.
 
 ### Check-in 
 Check-in will be at the South entrance closest to Colorado Ave. You must get a lanyard or badge in order to check-in. 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
-## <u>Before the Event<u>
+<!-- ## <u>Before the Event<u>
 
 ### What should I Bring :briefcase:
 
@@ -41,9 +43,9 @@ If necessary, the HackCU team is providing parking permits for those specific lo
 
 You must get a permit via [CU parking services](https://cuboulder.pmreserve.com) with the permit code <b>HACK8402</b>. This permit code allows you to get the pass for free. You must do this for both days. Make sure to print out the pass and put it on your vehicle while parking!
 
-![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB")
+![JSCBB Parking](/assets/img/res/jscbb_parking.png "JSCBB") -->
 
-### Lyft Code
+<!-- ### Lyft Code
 
 The Lyft code for this years HackCU is <b> BOULDERHACKCU8 </b>. 
 
@@ -100,7 +102,7 @@ us know when you arrive at the venue! Here are the channels:
 - `#ask-an-organizer`: Ask a hackCU 8 organizer your burning questions!
 - `#team-formation`: Post here if you are looking for teammates or a team to join! :busts_in_silhouette:
  - `#random-chat`: THE GIPHY channel (jk, say whatever there) <!--`if (message.randomness > 0.5): message.post(#random)` -->
-- `#job-chat`: Post your Linkedin so that recruiters can find you! Also a great place to discuss job-hunting strategy with fellow hackers!
+<!-- - `#job-chat`: Post your Linkedin so that recruiters can find you! Also a great place to discuss job-hunting strategy with fellow hackers!
 - `#memes`: Drop your best appropriate memes here to destress!
 - `#Meeting Room`: A VC channel and a great place to chat with your fellow hackers prior to the event.
 
@@ -108,9 +110,9 @@ us know when you arrive at the venue! Here are the channels:
 We will have mentors around to help you at on your projects! Mentors will be
 hanging out on Discord `#mentors` channel, at their mentor table and around the
 venue where you are more than welcome to ask any questins about your project
-and they will be abel to help you find a solution.
+and they will be abel to help you find a solution. -->
 
------
+<!-- -----
 
 
 ### Rules :point_left:
@@ -132,11 +134,11 @@ More Info regarding the availability of hardware coming soon!
 
 
 ### Schedule 
-You can find an updated schedule here:
+You can find an updated schedule hclearere:
 <b>[live.hackcu.org](https://hackcu.org/live/)</b>
+ -->
 
-
-### Workshops :computer:
+<!-- ### Workshops :computer:
 
 {% include sections/workshops.md %}
 
@@ -172,4 +174,4 @@ Make sure to tag social media posts related to the event with **\#HackCU**. We'l
 ## More questions?
 
 Check out our [FAQ](https://hackcu.org/#faq) or email us at [contact@hackcu.org](mailto:contact@hackcu.org)! You can also reach out to us on our [Twitter](https://twitter.com/hackcu), [Facebook](https://www.facebook.com/HackCU/), or [Instagram](https://www.instagram.com/hackcu/).
-
+ --> -->

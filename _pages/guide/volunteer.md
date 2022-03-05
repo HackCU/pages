@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: base
 title: Volunteer guide
 description: Volunteer guide for HackCU Episode VI
----
+--- -->
 
 
- Thanks for showing interest in volunteering with HackCU! We will soon have more information regarding volunteering at the upcoming in-person HackCU 8 event so check back soon! In the mean time, feel free to reach out to <b>[contact@hackcu.org](mailto:contact@hackcu.org)</b> and fill out the <b>[volunteer form here](https://forms.gle/tm5ovCyWY5ZLqP4r6)</b>, and we will get back to you shortly!
+ <!-- Thanks for showing interest in volunteering with HackCU! We will soon have more information regarding volunteering at the upcoming in-person HackCU 8 event so check back soon! In the mean time, feel free to reach out to <b>[contact@hackcu.org](mailto:contact@hackcu.org)</b> and fill out the <b>[volunteer form here](https://forms.gle/tm5ovCyWY5ZLqP4r6)</b>, and we will get back to you shortly! -->
 <!-- 
 HackCU is thrilled to have you help out this year at HackCU 8! This event would not be complete without you. We will be setting up the venue on Friday, February at 5:30 PM.  **You are not expected to be at the event apart from the time slots you originally signed up for.** -->
 

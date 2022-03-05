@@ -7,21 +7,25 @@ Here are some important times to be aware of:
 
 - 8:00 AM - Arrival and Check-in
 - 8:00 AM - Breakfast
-- 9:00 AM - Team Formation
 - 11:00 AM - Opening Ceremonies
 - 12:00 PM - Lunch 1
+- 12:00 PM - Team Formation
 - 12:00 PM - Hacking Begins!
 - 1:00 PM - Introduction to Git
-- 3:00 PM - Introduction to Project Managment
+- 2:00 PM - Introduction to Robotics
+- 3:00 PM - Introduction to Product Managment
 - 4:00 PM - Bioinformatics and Genomics
 - 5:00 PM - Fask Masks and Yoga
 - 6:00 PM - Dinner 1
-- 7:00 PM - Harry Potter Trivia
-- 8:00 PM - Movie
-- 11:00 PM - Late Night Dessert
+- 8:00 PM - Harry Potter Trivia
+- 9:00 PM - Desserts
+- 10:00 PM - Face Masks and Yoga
+- 11:00 PM - Movie
 
 **March 6th (Sunday)**
 
+- 1:00 AM - Midnight Snack
+- 7:00 AM - Sid's Morning Run
 - 8:00 AM - Breakfast 2
 - 12:00 PM - Hacking Ends! Projects Due!
 - 12:00 PM - Lunch 2

@@ -32,10 +32,10 @@ and how to maximize your hackathon experience!
 Check out the sponsor guide for HackCU 8, and 
 represent our company at our event.
 
-# [Volunteer Guide](guide/volunteer)
+<!-- # [Volunteer Guide](guide/volunteer)
 
 Check out the volunteer guide for HackCU 8, and 
-assist our organizers throught the hackathon.
+assist our organizers throught the hackathon. -->
 
 # [Judging Guide](guide/judge)
 
